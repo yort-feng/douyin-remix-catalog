@@ -554,6 +554,16 @@ a {
   font-variant-numeric: tabular-nums;
 }
 
+.meta-cast {
+  margin: 7px 0 0;
+  font-size: 12px;
+  color: var(--text-3);
+  line-height: 1.4;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 /* ---------- 空状态 ---------- */
 .empty {
   display: none;

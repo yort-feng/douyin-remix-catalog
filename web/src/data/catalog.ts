@@ -52,36 +52,36 @@ function loadReal(): CatalogItem[] {
   return items;
 }
 
-// 示例数据：剧名取自抖音官方二创片单指引中真实出现的作品，仅用于预览布局。
+// 示例数据：剧名取自抖音官方二创片单指引中真实出现的作品，主演为公开信息，仅用于预览。
 const SAMPLE: CatalogItem[] = [
   // 爱奇艺
-  s('iqiyi-001', '琅琊榜', 54, ['古装', '权谋'], true, 'iqiyi'),
-  s('iqiyi-002', '武林外传', 80, ['古装', '喜剧'], true, 'iqiyi'),
-  s('iqiyi-003', '周生如故', 24, ['古装', '爱情'], true, 'iqiyi'),
-  s('iqiyi-004', '最好的我们', 24, ['青春', '校园'], true, 'iqiyi'),
-  s('iqiyi-005', '中国合伙人', null, ['剧情', '励志'], false, 'iqiyi'),
-  s('iqiyi-006', '花样年华', null, ['爱情', '文艺'], false, 'iqiyi'),
+  s('iqiyi-001', '琅琊榜', 54, ['古装', '权谋'], true, 'iqiyi', ['胡歌', '刘涛', '王凯']),
+  s('iqiyi-002', '武林外传', 80, ['古装', '喜剧'], true, 'iqiyi', ['闫妮', '姚晨', '沙溢', '喻恩泰']),
+  s('iqiyi-003', '周生如故', 24, ['古装', '爱情'], true, 'iqiyi', ['任嘉伦', '白鹿']),
+  s('iqiyi-004', '最好的我们', 24, ['青春', '校园'], true, 'iqiyi', ['刘昊然', '谭松韵']),
+  s('iqiyi-005', '中国合伙人', null, ['剧情', '励志'], false, 'iqiyi', ['黄晓明', '邓超', '佟大为']),
+  s('iqiyi-006', '花样年华', null, ['爱情', '文艺'], false, 'iqiyi', ['梁朝伟', '张曼玉']),
   // 优酷
-  s('youku-001', '甄嬛传', 76, ['古装', '宫斗'], true, 'youku'),
-  s('youku-002', '白夜追凶', 32, ['悬疑', '犯罪'], true, 'youku'),
-  s('youku-003', '幸福到万家', 40, ['农村', '励志'], true, 'youku'),
-  s('youku-004', '请叫我总监', 36, ['都市', '爱情'], true, 'youku'),
-  s('youku-005', '冰雨火', 32, ['缉毒', '悬疑'], true, 'youku'),
-  s('youku-006', '点燃我，温暖你', 36, ['都市', '爱情'], true, 'youku'),
+  s('youku-001', '甄嬛传', 76, ['古装', '宫斗'], true, 'youku', ['孙俪', '陈建斌', '蔡少芬']),
+  s('youku-002', '白夜追凶', 32, ['悬疑', '犯罪'], true, 'youku', ['潘粤明', '王泷正']),
+  s('youku-003', '幸福到万家', 40, ['农村', '励志'], true, 'youku', ['赵丽颖', '刘威']),
+  s('youku-004', '请叫我总监', 36, ['都市', '爱情'], true, 'youku', ['林更新', '谭松韵']),
+  s('youku-005', '冰雨火', 32, ['缉毒', '悬疑'], true, 'youku', ['陈晓', '王一博']),
+  s('youku-006', '点燃我，温暖你', 36, ['都市', '爱情'], true, 'youku', ['陈飞宇', '张婧仪']),
   // 芒果TV
-  s('mango-001', '乘风2024', null, ['综艺', '舞台'], true, 'mango'),
-  s('mango-002', '花儿与少年·好友记', null, ['综艺', '旅行'], true, 'mango'),
-  s('mango-003', '群星闪耀时', 24, ['年代', '谍战'], true, 'mango'),
-  s('mango-004', '难寻', 24, ['古装', '奇幻'], true, 'mango'),
-  s('mango-005', '爸爸当家 第三季', null, ['综艺', '亲子'], true, 'mango'),
-  s('mango-006', '灿烂的花园', null, ['综艺', '生活'], true, 'mango'),
+  s('mango-001', '乘风2024', null, ['综艺', '舞台'], true, 'mango', null),
+  s('mango-002', '花儿与少年·好友记', null, ['综艺', '旅行'], true, 'mango', null),
+  s('mango-003', '群星闪耀时', 24, ['年代', '谍战'], true, 'mango', ['李现', '任敏']),
+  s('mango-004', '难寻', 24, ['古装', '奇幻'], true, 'mango', ['赵弈钦', '朱丽岚']),
+  s('mango-005', '爸爸当家 第三季', null, ['综艺', '亲子'], true, 'mango', null),
+  s('mango-006', '灿烂的花园', null, ['综艺', '生活'], true, 'mango', null),
   // 搜狐视频
-  s('sohu-001', '法医秦明第一季', 20, ['悬疑', '法医'], false, 'sohu'),
-  s('sohu-002', '无心法师第一季', 20, ['奇幻', '民国'], false, 'sohu'),
-  s('sohu-003', '为你逆光而来', 16, ['都市', '爱情'], false, 'sohu'),
-  s('sohu-004', '他在逆光中告白', 16, ['都市', '爱情'], false, 'sohu'),
-  s('sohu-005', '夜城赋', 16, ['古装', '悬疑'], false, 'sohu'),
-  s('sohu-006', '青梅酸酸你微甜', 12, ['青春', '爱情'], false, 'sohu'),
+  s('sohu-001', '法医秦明第一季', 20, ['悬疑', '法医'], false, 'sohu', ['张若昀', '焦俊艳', '李现']),
+  s('sohu-002', '无心法师第一季', 20, ['奇幻', '民国'], false, 'sohu', ['韩东君', '金晨', '陈瑶']),
+  s('sohu-003', '为你逆光而来', 16, ['都市', '爱情'], false, 'sohu', ['曹佑宁', '陈姸霏']),
+  s('sohu-004', '他在逆光中告白', 16, ['都市', '爱情'], false, 'sohu', ['曹佑宁', '陈姸霏']),
+  s('sohu-005', '夜城赋', 16, ['古装', '悬疑'], false, 'sohu', ['袁昊', '赵昭仪']),
+  s('sohu-006', '青梅酸酸你微甜', 12, ['青春', '爱情'], false, 'sohu', null),
 ];
 
 function s(
@@ -91,6 +91,7 @@ function s(
   tags: string[],
   vip: boolean,
   platform: string,
+  cast: string[] | null,
 ): CatalogItem {
   return {
     id,
@@ -101,7 +102,7 @@ function s(
     tags,
     vip_required: vip,
     genre: tags[0] ?? null,
-    cast: null,
+    cast,
     director: null,
     release_year: null,
     description: null,

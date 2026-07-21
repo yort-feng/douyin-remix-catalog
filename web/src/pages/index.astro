@@ -1,12 +1,21 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import PosterCard from '../components/PosterCard.astro';
-import { ITEMS, PLATFORMS, IS_SAMPLE } from '../data/catalog';
+import { ITEMS, PLATFORMS, IS_SAMPLE, platformMeta } from '../data/catalog';
 
 const total = ITEMS.length;
 const platCount = PLATFORMS.map((p) => ({
   ...p,
   n: ITEMS.filter((i) => i.platform === p.key).length,
+}));
+
+// 客户端模糊搜索索引：片名 + 演员 + 标签 + 平台名
+const searchIndex = ITEMS.map((i) => ({
+  id: i.id,
+  title: i.title,
+  cast: (i.cast || []).join(' '),
+  tags: (i.tags || []).join(' '),
+  platformName: platformMeta(i.platform).name,
 }));
 ---
 
@@ -24,7 +33,7 @@ const platCount = PLATFORMS.map((p) => ({
           <circle cx="11" cy="11" r="7"></circle>
           <path d="m21 21-4.3-4.3"></path>
         </svg>
-        <input id="search" type="search" placeholder="搜索片名，如「琅琊榜」「甄嬛传」…" autocomplete="off" />
+        <input id="search" type="search" placeholder="搜索片名 / 演员 / 标签，如「琅琊榜」「孙俪」「悬疑」…" autocomplete="off" />
       </div>
     </div>
   </header>
@@ -106,7 +115,12 @@ const platCount = PLATFORMS.map((p) => ({
     </div>
   </footer>
 
+  <!-- 模糊搜索索引（构建期注入） -->
+  <script type="application/json" id="catalog-data" set:html={JSON.stringify(searchIndex)} />
+
   <script>
+    import Fuse from 'fuse.js';
+
     const grid = document.getElementById('grid')!;
     const cards = Array.from(grid.querySelectorAll<HTMLElement>('.card'));
     const empty = document.getElementById('empty')!;
@@ -114,14 +128,49 @@ const platCount = PLATFORMS.map((p) => ({
     const searchInput = document.getElementById('search') as HTMLInputElement;
     const chips = Array.from(document.querySelectorAll<HTMLElement>('#chips .chip'));
 
+    const data = JSON.parse(document.getElementById('catalog-data')!.textContent || '[]');
+    const fuse = new Fuse(data, {
+      keys: [
+        { name: 'title', weight: 0.4 },
+        { name: 'cast', weight: 0.3 },
+        { name: 'tags', weight: 0.15 },
+        { name: 'platformName', weight: 0.15 },
+      ],
+      threshold: 0.4,
+      ignoreLocation: true,
+      minMatchCharLength: 1,
+    });
+
+    // 子序列判断：query 各字符按序出现在 text 中即算命中（覆盖中文跳字/部分匹配）
+    function isSubseq(q: string, text: string): boolean {
+      let i = 0;
+      for (const ch of text) {
+        if (ch === q[i]) i++;
+        if (i === q.length) return true;
+      }
+      return q.length === 0;
+    }
+
     let activePlatform = 'all';
     let query = '';
 
     function apply() {
+      // 有关键词时：Fuse 容错命中 ∪ 子序列命中；无关键词则为 null（不限制）
+      let matched: Set<string> | null = null;
+      if (query) {
+        const q = query.toLowerCase();
+        matched = new Set(fuse.search(query).map((r) => r.item.id));
+        for (const item of data) {
+          const hit = [item.title, item.cast, item.tags, item.platformName].some(
+            (f: string) => f && isSubseq(q, f.toLowerCase()),
+          );
+          if (hit) matched.add(item.id);
+        }
+      }
       let visible = 0;
       for (const card of cards) {
         const matchPlat = activePlatform === 'all' || card.dataset.platform === activePlatform;
-        const matchQuery = !query || (card.dataset.title || '').includes(query);
+        const matchQuery = !matched || matched.has(card.dataset.id || '');
         const show = matchPlat && matchQuery;
         card.classList.toggle('is-hidden', !show);
         if (show) visible++;
@@ -131,7 +180,7 @@ const platCount = PLATFORMS.map((p) => ({
     }
 
     searchInput.addEventListener('input', () => {
-      query = searchInput.value.trim().toLowerCase();
+      query = searchInput.value.trim();
       apply();
     });
 

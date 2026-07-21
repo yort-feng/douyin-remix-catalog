@@ -14,7 +14,7 @@ const delay = Math.min(index * 35, 600);
 
 <article
   class="card"
-  data-title={item.title.toLowerCase()}
+  data-id={item.id}
   data-platform={item.platform}
   style={`--pc:${plat.color}; animation-delay:${delay}ms`}
 >
@@ -42,5 +42,8 @@ const delay = Math.min(index * 35, 600);
         <span class="tag">{t}</span>
       ))}
     </div>
+    {item.cast && item.cast.length > 0 && (
+      <p class="meta-cast">{item.cast.slice(0, 3).join(' / ')}</p>
+    )}
   </div>
 </article>
