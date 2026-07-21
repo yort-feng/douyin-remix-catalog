@@ -1,0 +1,147 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PosterCard from '../components/PosterCard.astro';
+import { ITEMS, PLATFORMS, IS_SAMPLE } from '../data/catalog';
+
+const total = ITEMS.length;
+const platCount = PLATFORMS.map((p) => ({
+  ...p,
+  n: ITEMS.filter((i) => i.platform === p.key).length,
+}));
+---
+
+<Layout>
+  <!-- 顶部 -->
+  <header class="site-head">
+    <div class="wrap head-inner">
+      <div class="brand">
+        <span class="brand-mark">二创<em>片单</em></span>
+        <span class="brand-sub">Remix Catalog</span>
+      </div>
+      <div class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="7"></circle>
+          <path d="m21 21-4.3-4.3"></path>
+        </svg>
+        <input id="search" type="search" placeholder="搜索片名，如「琅琊榜」「甄嬛传」…" autocomplete="off" />
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- 主视觉 -->
+    <section class="hero">
+      <span class="hero-eyebrow">抖音版权二创 · 官方合作片单</span>
+      <h1>
+        <span class="cn">哪些剧，</span>
+        <span class="cn">可以<span class="accent">二创</span>？</span>
+      </h1>
+      <p>
+        抖音已与爱奇艺、优酷、芒果TV、搜狐视频达成合作。这里聚合了各平台官方开放二次创作的影视剧片单，供创作者快速查询选材。
+      </p>
+
+      <div class="hero-stats">
+        <div>
+          <div class="stat-num" id="stat-total">{total}</div>
+          <div class="stat-label">部可二创作品</div>
+        </div>
+        <div>
+          <div class="stat-num">{PLATFORMS.length}</div>
+          <div class="stat-label">个合作平台</div>
+        </div>
+      </div>
+
+      {IS_SAMPLE && (
+        <div class="sample-note">
+          <span>🎬</span>
+          <span>当前展示为<b>示例数据</b>（用于预览布局）。真实片单由各平台爬取任务入库后自动替换，详见仓库 Issues。</span>
+        </div>
+      )}
+    </section>
+
+    <!-- 筛选栏 -->
+    <div class="toolbar">
+      <div class="chips" id="chips">
+        <button class="chip is-active" data-platform="all" style="--c:var(--accent)">
+          <span class="dot"></span>全部平台
+        </button>
+        {platCount.map((p) => (
+          <button class="chip" data-platform={p.key} style={`--c:${p.color}`}>
+            <span class="dot"></span>
+            {p.name}
+            <span style="opacity:.55;font-size:12px">{p.n}</span>
+          </button>
+        ))}
+      </div>
+      <div class="count">共 <b id="count">{total}</b> 部</div>
+    </div>
+
+    <!-- 卡片网格 -->
+    <section class="grid" id="grid">
+      {ITEMS.map((item, i) => <PosterCard item={item} index={i} />)}
+    </section>
+
+    <!-- 空状态 -->
+    <div class="empty" id="empty">
+      <div class="empty-icon">EMPTY</div>
+      <h3>没有匹配的作品</h3>
+      <p>换个关键词，或切换平台筛选试试。</p>
+    </div>
+  </main>
+
+  <!-- 页脚 -->
+  <footer class="site-foot">
+    <div class="wrap foot-inner">
+      <div>
+        <div class="foot-brand">二创片单 · Remix Catalog</div>
+        <div>数据来源于各平台 APP 内官方二创片单，仅供创作选材参考。</div>
+      </div>
+      <div>
+        <div style="margin-bottom:8px;color:var(--text-2)">创作须知</div>
+        <div>不得拆条 · 需二次加工原创 · 建议 4 分钟内 ·
+          <a href="https://github.com/yort-feng/douyin-remix-catalog" target="_blank" rel="noopener">GitHub 仓库 ↗</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const grid = document.getElementById('grid')!;
+    const cards = Array.from(grid.querySelectorAll<HTMLElement>('.card'));
+    const empty = document.getElementById('empty')!;
+    const countEl = document.getElementById('count')!;
+    const searchInput = document.getElementById('search') as HTMLInputElement;
+    const chips = Array.from(document.querySelectorAll<HTMLElement>('#chips .chip'));
+
+    let activePlatform = 'all';
+    let query = '';
+
+    function apply() {
+      let visible = 0;
+      for (const card of cards) {
+        const matchPlat = activePlatform === 'all' || card.dataset.platform === activePlatform;
+        const matchQuery = !query || (card.dataset.title || '').includes(query);
+        const show = matchPlat && matchQuery;
+        card.classList.toggle('is-hidden', !show);
+        if (show) visible++;
+      }
+      countEl.textContent = String(visible);
+      empty.classList.toggle('show', visible === 0);
+    }
+
+    searchInput.addEventListener('input', () => {
+      query = searchInput.value.trim().toLowerCase();
+      apply();
+    });
+
+    chips.forEach((chip) => {
+      chip.addEventListener('click', () => {
+        chips.forEach((c) => c.classList.remove('is-active'));
+        chip.classList.add('is-active');
+        activePlatform = chip.dataset.platform || 'all';
+        apply();
+      });
+    });
+  </script>
+</Layout>

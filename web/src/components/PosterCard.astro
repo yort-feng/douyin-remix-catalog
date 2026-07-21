@@ -1,0 +1,46 @@
+---
+import type { CatalogItem } from '../data/catalog';
+import { platformMeta } from '../data/catalog';
+
+interface Props {
+  item: CatalogItem;
+  index: number;
+}
+
+const { item, index } = Astro.props;
+const plat = platformMeta(item.platform);
+const delay = Math.min(index * 35, 600);
+---
+
+<article
+  class="card"
+  data-title={item.title.toLowerCase()}
+  data-platform={item.platform}
+  style={`--pc:${plat.color}; animation-delay:${delay}ms`}
+>
+  <div class="poster">
+    <span class="badge-plat">{plat.name}</span>
+    {item.vip_required && <span class="badge-vip">VIP</span>}
+
+    {item.poster_url ? (
+      <img src={item.poster_url} alt={item.title} loading="lazy" />
+    ) : (
+      <div class="poster-fallback"><span>{item.title}</span></div>
+    )}
+    <div class="poster-shade"></div>
+  </div>
+
+  <div class="meta">
+    <h3 class="meta-title">{item.title}</h3>
+    <div class="meta-row">
+      {item.episodes ? (
+        <span class="tag ep">{item.episodes}集</span>
+      ) : item.update_info ? (
+        <span class="tag ep">{item.update_info}</span>
+      ) : null}
+      {item.tags.slice(0, 2).map((t) => (
+        <span class="tag">{t}</span>
+      ))}
+    </div>
+  </div>
+</article>
