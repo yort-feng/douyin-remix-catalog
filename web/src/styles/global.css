@@ -642,6 +642,95 @@ a {
   }
 }
 
+/* ---------- 编辑模式（/edit 页面） ---------- */
+.card.editable {
+  cursor: pointer;
+}
+
+.card-edit {
+  position: absolute;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+  z-index: 4;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: 32px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  background: rgba(11, 12, 15, 0.72);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: var(--text);
+  font-family: var(--font-ui);
+  font-size: 12.5px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 0.25s, transform 0.25s, background 0.2s, border-color 0.2s;
+}
+
+.card-edit svg {
+  width: 14px;
+  height: 14px;
+}
+
+.card.editable:hover .card-edit,
+.card-edit:focus-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.card-edit:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #1a1405;
+}
+
+@media (hover: none) {
+  .card-edit {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 已修改角标：默认隐藏，卡片被标记 .is-edited 后显示 */
+.badge-edited {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 3;
+  display: none;
+  align-items: center;
+  height: 22px;
+  padding: 0 8px;
+  border-radius: 6px;
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: #1a1405;
+  background: linear-gradient(135deg, #ffd76a, #f0b429);
+  box-shadow: 0 4px 12px -4px rgba(0, 0, 0, 0.6);
+}
+
+.card.is-edited .badge-edited {
+  display: inline-flex;
+}
+
+/* VIP 角标在已修改时下移，避免与"已修改"重叠 */
+.card.is-edited .badge-vip {
+  top: 38px;
+}
+
+.card.is-edited .poster {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 1px var(--accent), var(--shadow-card);
+}
+
 @media (prefers-reduced-motion: reduce) {
   * {
     animation: none !important;
