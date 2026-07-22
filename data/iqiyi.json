@@ -15,11 +15,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "史泽鲲",
+        "余昌宇",
+        "言浩",
+        "张惠霖",
+        "赵梦娇",
+        "张杰",
+        "邢子皓",
+        "卢力峰"
+      ],
+      "director": "方翔",
       "release_year": null,
       "description": null,
-      "heat": 8991
+      "heat": 8991,
+      "douban_rating": null
     },
     {
       "id": "iqiyi-0002",
@@ -32,11 +42,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "何浩楠",
+        "吕严",
+        "马頔",
+        "王祖蓝",
+        "杨超越",
+        "岳云鹏",
+        "张柏芝"
+      ],
+      "director": "黄渤",
       "release_year": null,
       "description": null,
-      "heat": 8982
+      "heat": 8982,
+      "douban_rating": null
     },
     {
       "id": "iqiyi-0003",
@@ -49,11 +68,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "赵烁",
+        "杨紫",
+        "胡歌",
+        "李光洁",
+        "张哲华",
+        "梅婷",
+        "袁弘",
+        "杨烁",
+        "周游"
+      ],
+      "director": "李雪",
       "release_year": null,
       "description": null,
-      "heat": 8973
+      "heat": 8973,
+      "douban_rating": 8.4
     },
     {
       "id": "iqiyi-0004",
@@ -66,11 +96,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王骁",
+        "田曦薇",
+        "王传君",
+        "朱云峰",
+        "张瑞涵",
+        "姜冠南",
+        "马旭东",
+        "宋郁河"
+      ],
+      "director": "刘海波",
       "release_year": null,
       "description": null,
-      "heat": 8964
+      "heat": 8964,
+      "douban_rating": 8.2
     },
     {
       "id": "iqiyi-0005",
@@ -83,11 +123,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "刘玉晨",
+        "梁建强",
+        "李一桐",
+        "曾舜晞",
+        "邓为",
+        "代露娃",
+        "王以纶",
+        "程泓鑫",
+        "田嘉瑞",
+        "简宇熙"
+      ],
+      "director": "朱少杰",
       "release_year": null,
       "description": null,
-      "heat": 8955
+      "heat": 8955,
+      "douban_rating": 3.8
     },
     {
       "id": "iqiyi-0006",
@@ -100,11 +152,19 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "上白",
+        "潘元甲",
+        "廖蔚蔚",
+        "张皓越",
+        "郭金杰",
+        "胡明悦"
+      ],
+      "director": "左志国",
       "release_year": null,
       "description": null,
-      "heat": 8946
+      "heat": 8946,
+      "douban_rating": null
     },
     {
       "id": "iqiyi-0007",
@@ -117,11 +177,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王成欣",
+        "杨紫",
+        "韩东君",
+        "吴冕",
+        "田小洁",
+        "徐百慧",
+        "王梓豪",
+        "谢心",
+        "李泓良"
+      ],
+      "director": "惠楷栋",
       "release_year": null,
       "description": null,
-      "heat": 8937
+      "heat": 8937,
+      "douban_rating": 7.3
     },
     {
       "id": "iqiyi-0008",
@@ -134,11 +205,15 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "金瀚",
+        "江一燕"
+      ],
+      "director": "信鹏",
       "release_year": null,
       "description": null,
-      "heat": 8928
+      "heat": 8928,
+      "douban_rating": null
     },
     {
       "id": "iqiyi-0009",
@@ -151,11 +226,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "孙朗朗",
+        "李诗萌",
+        "江月",
+        "贺文潇",
+        "张福正",
+        "柳真颜",
+        "刘琮",
+        "季骜杰"
+      ],
+      "director": "马建平",
       "release_year": null,
       "description": null,
-      "heat": 8919
+      "heat": 8919,
+      "douban_rating": 6.2
     },
     {
       "id": "iqiyi-0010",
@@ -202,11 +287,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "马鸣",
+        "虞书欣",
+        "何与",
+        "费启鸣",
+        "吴翊歌",
+        "孙美林",
+        "李澳",
+        "栾元晖",
+        "卡斯柏"
+      ],
+      "director": "于中中",
       "release_year": null,
       "description": null,
-      "heat": 8892
+      "heat": 8892,
+      "douban_rating": 6.7
     },
     {
       "id": "iqiyi-0013",
@@ -219,11 +315,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "于和伟",
+        "富大龙",
+        "丁勇岱",
+        "白凡",
+        "马苏",
+        "黄曼",
+        "刘凯",
+        "赵阳"
+      ],
+      "director": "惠楷栋",
       "release_year": null,
       "description": null,
-      "heat": 8883
+      "heat": 8883,
+      "douban_rating": 7.7
     },
     {
       "id": "iqiyi-0014",
@@ -236,11 +342,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "马小刚",
+        "曾舜晞",
+        "肖宇梁",
+        "哈妮克孜",
+        "刘宇宁",
+        "范明",
+        "刘雪华",
+        "成方旭",
+        "刘昱晗"
+      ],
+      "director": "邹曦",
       "release_year": null,
       "description": null,
-      "heat": 8874
+      "heat": 8874,
+      "douban_rating": 8.2
     },
     {
       "id": "iqiyi-0015",
@@ -253,11 +370,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王莉",
+        "王楚然",
+        "丞磊",
+        "唐晓天",
+        "胡意旋",
+        "马苏",
+        "崔奕",
+        "樊少皇",
+        "尤靖茹"
+      ],
+      "director": "刘海波",
       "release_year": null,
       "description": null,
-      "heat": 8865
+      "heat": 8865,
+      "douban_rating": 7.2
     },
     {
       "id": "iqiyi-0016",
@@ -270,11 +398,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "张译",
+        "张颂文",
+        "李一桐",
+        "张志坚",
+        "吴刚",
+        "倪大红",
+        "韩童生",
+        "李建义"
+      ],
+      "director": "徐纪周",
       "release_year": null,
       "description": null,
-      "heat": 8856
+      "heat": 8856,
+      "douban_rating": 8.5
     },
     {
       "id": "iqiyi-0017",
@@ -319,11 +457,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "易勇",
+        "黄景瑜",
+        "杨祐宁",
+        "盖玥希",
+        "李幼斌",
+        "程煜",
+        "傅程鹏",
+        "徐洪浩",
+        "孙逊"
+      ],
+      "director": "天毅",
       "release_year": null,
       "description": null,
-      "heat": 8829
+      "heat": 8829,
+      "douban_rating": 7.0
     },
     {
       "id": "iqiyi-0020",
@@ -334,11 +483,23 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "麦咏麟",
+        "孔厉大",
+        "鹿晗",
+        "古力娜扎",
+        "吴倩",
+        "曾舜晞",
+        "许龄月",
+        "陈数",
+        "曾志伟",
+        "姚笛"
+      ],
+      "director": "钟澍佳",
       "release_year": null,
       "description": null,
-      "heat": 8820
+      "heat": 8820,
+      "douban_rating": 4.3
     },
     {
       "id": "iqiyi-0021",
@@ -349,11 +510,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "闫妮",
+        "姚晨",
+        "沙溢",
+        "喻恩泰",
+        "姜超",
+        "倪虹洁",
+        "王莎莎",
+        "范明"
+      ],
+      "director": "尚敬",
       "release_year": null,
       "description": null,
-      "heat": 8811
+      "heat": 8811,
+      "douban_rating": 9.6
     },
     {
       "id": "iqiyi-0022",
@@ -590,11 +761,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "邓超",
+        "陈赫",
+        "鹿晗",
+        "郭京飞",
+        "彭昱畅",
+        "魏大勋",
+        "王勉",
+        "刘昊然"
+      ],
+      "director": "胡明",
       "release_year": null,
       "description": null,
-      "heat": 8676
+      "heat": 8676,
+      "douban_rating": 5.2
     },
     {
       "id": "iqiyi-0037",
@@ -641,11 +822,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "郭鸿博",
+        "筱筝",
+        "若海",
+        "冯骏骅",
+        "醋醋",
+        "犬十三",
+        "沈达威",
+        "微辣"
+      ],
+      "director": "彭飞",
       "release_year": null,
       "description": null,
-      "heat": 8649
+      "heat": 8649,
+      "douban_rating": null
     },
     {
       "id": "iqiyi-0040",
@@ -658,11 +849,14 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "戴琦"
+      ],
+      "director": "杨振",
       "release_year": null,
       "description": null,
-      "heat": 8640
+      "heat": 8640,
+      "douban_rating": null
     },
     {
       "id": "iqiyi-0041",
@@ -675,11 +869,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "刘洋",
+        "杨幂",
+        "欧豪",
+        "倪大红",
+        "秦海璐",
+        "邢菲",
+        "张天阳",
+        "张海宇",
+        "迟蓬"
+      ],
+      "director": "刘家成",
       "release_year": null,
       "description": null,
-      "heat": 8631
+      "heat": 8631,
+      "douban_rating": 7.2
     },
     {
       "id": "iqiyi-0042",
@@ -709,11 +914,16 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "Sébastien Charles",
+        "Frédéric Mangenot",
+        "Lucia Sanchez"
+      ],
+      "director": "弗朗索瓦·欧容",
       "release_year": null,
       "description": null,
-      "heat": 8613
+      "heat": 8613,
+      "douban_rating": 8.2
     },
     {
       "id": "iqiyi-0044",
@@ -741,11 +951,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "于毅",
+        "刘智扬",
+        "肖茵",
+        "许佳琪",
+        "姜馥颐",
+        "顾振翔",
+        "马凡丁",
+        "边程"
+      ],
+      "director": "巨兴茂",
       "release_year": null,
       "description": null,
-      "heat": 8595
+      "heat": 8595,
+      "douban_rating": 7.3
     },
     {
       "id": "iqiyi-0046",
