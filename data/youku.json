@@ -277,7 +277,8 @@
       "director": null,
       "release_year": null,
       "description": null,
-      "heat": 7830
+      "heat": 7830,
+      "douban_rating": null
     },
     {
       "id": "youku-0018",
