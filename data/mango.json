@@ -478,11 +478,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "井柏然",
+        "陈柏霖",
+        "杨祐宁",
+        "张若昀",
+        "江疏影",
+        "古力娜扎",
+        "宋祖儿",
+        "赖雨濛"
+      ],
+      "director": "吴梦知",
       "release_year": null,
       "description": "记",
-      "heat": 4584
+      "heat": 4584,
+      "douban_rating": 7.6
     },
     {
       "id": "mango-0028",
