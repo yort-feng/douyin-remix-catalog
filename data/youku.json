@@ -419,11 +419,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "白敬亭",
+        "章若楠",
+        "陈昊森",
+        "张淼怡",
+        "翟潇闻",
+        "原野",
+        "吴宇恒",
+        "刘楚恬"
+      ],
+      "director": "瞿友宁",
       "release_year": null,
       "description": null,
-      "heat": 7740
+      "heat": 7740,
+      "douban_rating": 5.4
     },
     {
       "id": "youku-0027",
