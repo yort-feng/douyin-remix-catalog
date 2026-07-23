@@ -32,11 +32,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "刘亦菲",
+        "李现",
+        "胡冰卿",
+        "牛骏峰",
+        "吴彦姝",
+        "董晴",
+        "范帅琦",
+        "马梦唯"
+      ],
+      "director": "丁梓光",
       "release_year": null,
       "description": "VIP",
-      "heat": 4784
+      "heat": 4784,
+      "douban_rating": 8.8
     },
     {
       "id": "mango-0003",
@@ -236,11 +246,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "兰迪",
+        "李承铉",
+        "应采儿",
+        "魏晨",
+        "李艾",
+        "张雅莲",
+        "肖杰",
+        "葛沛豪",
+        "马杨"
+      ],
+      "director": "明艾晴",
       "release_year": null,
       "description": "VIP",
-      "heat": 4688
+      "heat": 4688,
+      "douban_rating": 9.2
     },
     {
       "id": "mango-0015",
