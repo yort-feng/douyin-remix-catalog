@@ -501,11 +501,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "杨洋",
+        "金晨",
+        "汪铎",
+        "赵小棠",
+        "赵晴",
+        "金佳悦",
+        "荣梓希",
+        "张婉儿"
+      ],
+      "director": "杨阳",
       "release_year": null,
       "description": null,
-      "heat": 7690
+      "heat": 7690,
+      "douban_rating": 7.5
     },
     {
       "id": "youku-0032",
@@ -533,11 +543,17 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "大张伟",
+        "小鹿",
+        "周奇墨",
+        "翟佳宁"
+      ],
+      "director": "赵露思",
       "release_year": null,
       "description": "线下喜剧试验场",
-      "heat": 7670
+      "heat": 7670,
+      "douban_rating": null
     },
     {
       "id": "youku-0034",
@@ -801,11 +817,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "白云默",
+        "马诗歌",
+        "吴谨言",
+        "王星越",
+        "陈鑫海",
+        "梁永棋",
+        "陈乔恩",
+        "苏可",
+        "刘些宁",
+        "李梦"
+      ],
+      "director": "侣皓吉吉",
       "release_year": null,
       "description": null,
-      "heat": 7510
+      "heat": 7510,
+      "douban_rating": 6.6
     },
     {
       "id": "youku-0050",
@@ -833,11 +861,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "潘粤明",
+        "王鹤棣",
+        "任敏",
+        "姜珮瑶",
+        "赵虎",
+        "江奇霖",
+        "宋霄瑛子",
+        "郑奇"
+      ],
+      "director": "王之",
       "release_year": null,
       "description": null,
-      "heat": 7490
+      "heat": 7490,
+      "douban_rating": 7.0
     },
     {
       "id": "youku-0052",
@@ -867,11 +905,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "李宏毅",
+        "刘学义",
+        "林博洋",
+        "敖瑞鹏",
+        "李欣泽",
+        "戴燕妮",
+        "范津玮",
+        "邓凯"
+      ],
+      "director": "尹涛",
       "release_year": null,
       "description": null,
-      "heat": 7470
+      "heat": 7470,
+      "douban_rating": 8.3
     },
     {
       "id": "youku-0054",
@@ -963,11 +1011,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "黄景瑜",
+        "章宇",
+        "王子奇",
+        "谢可寅",
+        "林博洋",
+        "刘润南",
+        "赵昱童",
+        "练练"
+      ],
+      "director": "吕行",
       "release_year": null,
       "description": "11",
-      "heat": 7410
+      "heat": 7410,
+      "douban_rating": 7.5
     },
     {
       "id": "youku-0060",
