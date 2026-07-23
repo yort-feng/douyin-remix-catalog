@@ -624,11 +624,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "胡歌",
+        "桂纶镁",
+        "廖凡",
+        "万茜",
+        "奇道",
+        "黄觉",
+        "曾美慧孜",
+        "张奕聪"
+      ],
+      "director": "刁亦男",
       "release_year": null,
       "description": "312i8",
-      "heat": 4520
+      "heat": 4520,
+      "douban_rating": 7.4
     },
     {
       "id": "mango-0036",
