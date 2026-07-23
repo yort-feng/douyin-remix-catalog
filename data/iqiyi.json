@@ -1235,11 +1235,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "刘青云",
+        "林家栋",
+        "李小璐",
+        "江一燕",
+        "郭晓东",
+        "凤小岳",
+        "孙佳君"
+      ],
+      "director": "罗志良",
       "release_year": null,
       "description": null,
-      "heat": 8451
+      "heat": 8451,
+      "douban_rating": 5.0
     },
     {
       "id": "iqiyi-0062",
