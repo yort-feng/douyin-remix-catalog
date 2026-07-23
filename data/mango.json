@@ -902,11 +902,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "何炅",
+        "王祖蓝",
+        "林子祥",
+        "叶倩文",
+        "李克勤",
+        "林晓峰",
+        "杨千嬅",
+        "李健"
+      ],
+      "director": "洪啸",
       "release_year": null,
       "description": null,
-      "heat": 4392
+      "heat": 4392,
+      "douban_rating": 7.3
     },
     {
       "id": "mango-0052",
