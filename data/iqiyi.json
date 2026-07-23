@@ -599,19 +599,11 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": [
-        "耿业庭",
-        "李沐风",
-        "吴翎薇",
-        "宗峰岩",
-        "张琦",
-        "孙正宇"
-      ],
-      "director": "吴承峰",
+      "cast": null,
+      "director": null,
       "release_year": null,
       "description": null,
-      "heat": 8766,
-      "douban_rating": null
+      "heat": 8766
     },
     {
       "id": "iqiyi-0027",
@@ -654,21 +646,11 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": [
-        "任素汐",
-        "王骁",
-        "蔡文静",
-        "李泽锋",
-        "王宥钧",
-        "董晴",
-        "叶祖新",
-        "节冰"
-      ],
-      "director": "滕华涛",
+      "cast": null,
+      "director": null,
       "release_year": null,
       "description": null,
-      "heat": 8739,
-      "douban_rating": 7.3
+      "heat": 8739
     },
     {
       "id": "iqiyi-0030",
@@ -679,19 +661,11 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": [
-        "郭振迦",
-        "王凯",
-        "潘佩佩",
-        "彪子",
-        "张晏宁",
-        "卢开放"
-      ],
-      "director": "胡雪杨",
+      "cast": null,
+      "director": null,
       "release_year": null,
       "description": null,
-      "heat": 8730,
-      "douban_rating": null
+      "heat": 8730
     },
     {
       "id": "iqiyi-0031",
@@ -704,22 +678,11 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": [
-        "李雪",
-        "胡歌",
-        "刘涛",
-        "王凯",
-        "陈龙",
-        "黄维德",
-        "靳东",
-        "高鑫",
-        "张棪琰"
-      ],
-      "director": "孔笙",
+      "cast": null,
+      "director": null,
       "release_year": null,
       "description": null,
-      "heat": 8721,
-      "douban_rating": 9.4
+      "heat": 8721
     },
     {
       "id": "iqiyi-0032",
