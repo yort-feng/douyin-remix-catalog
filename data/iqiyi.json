@@ -599,11 +599,19 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "耿业庭",
+        "李沐风",
+        "吴翎薇",
+        "宗峰岩",
+        "张琦",
+        "孙正宇"
+      ],
+      "director": "吴承峰",
       "release_year": null,
       "description": null,
-      "heat": 8766
+      "heat": 8766,
+      "douban_rating": null
     },
     {
       "id": "iqiyi-0027",
@@ -646,11 +654,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "任素汐",
+        "王骁",
+        "蔡文静",
+        "李泽锋",
+        "王宥钧",
+        "董晴",
+        "叶祖新",
+        "节冰"
+      ],
+      "director": "滕华涛",
       "release_year": null,
       "description": null,
-      "heat": 8739
+      "heat": 8739,
+      "douban_rating": 7.3
     },
     {
       "id": "iqiyi-0030",
@@ -661,11 +679,19 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "郭振迦",
+        "王凯",
+        "潘佩佩",
+        "彪子",
+        "张晏宁",
+        "卢开放"
+      ],
+      "director": "胡雪杨",
       "release_year": null,
       "description": null,
-      "heat": 8730
+      "heat": 8730,
+      "douban_rating": null
     },
     {
       "id": "iqiyi-0031",
@@ -678,11 +704,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "李雪",
+        "胡歌",
+        "刘涛",
+        "王凯",
+        "陈龙",
+        "黄维德",
+        "靳东",
+        "高鑫",
+        "张棪琰"
+      ],
+      "director": "孔笙",
       "release_year": null,
       "description": null,
-      "heat": 8721
+      "heat": 8721,
+      "douban_rating": 9.4
     },
     {
       "id": "iqiyi-0032",
@@ -710,11 +747,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "靳东",
+        "马伊琍",
+        "袁泉",
+        "雷佳音",
+        "吴越",
+        "许娣",
+        "张龄心",
+        "邬君梅"
+      ],
+      "director": "沈严",
       "release_year": null,
       "description": null,
-      "heat": 8703
+      "heat": 8703,
+      "douban_rating": 6.4
     },
     {
       "id": "iqiyi-0034",
@@ -976,23 +1023,11 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": [
-        "落落",
-        "魏楠",
-        "侯明昊",
-        "陈都灵",
-        "田嘉瑞",
-        "程潇",
-        "林子烨",
-        "徐振轩",
-        "闫桉",
-        "赖伟明"
-      ],
-      "director": "张弋敏",
+      "cast": null,
+      "director": null,
       "release_year": null,
       "description": null,
-      "heat": 8586,
-      "douban_rating": 5.1
+      "heat": 8586
     },
     {
       "id": "iqiyi-0047",
@@ -1384,22 +1419,11 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": [
-        "刘璋牧",
-        "白敬亭",
-        "丁勇岱",
-        "金晨",
-        "左小青",
-        "刘钧",
-        "姜妍",
-        "刘冠麟",
-        "胡可"
-      ],
-      "director": "郑晓龙",
+      "cast": null,
+      "director": null,
       "release_year": null,
       "description": null,
-      "heat": 8370,
-      "douban_rating": 7.4
+      "heat": 8370
     },
     {
       "id": "iqiyi-0071",
@@ -1593,20 +1617,11 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": [
-        "陈星旭",
-        "卢昱晓",
-        "代旭",
-        "马思超",
-        "李婷婷",
-        "任宥纶",
-        "陈依莎"
-      ],
-      "director": "猫的树",
+      "cast": null,
+      "director": null,
       "release_year": null,
       "description": null,
-      "heat": 8262,
-      "douban_rating": 6.5
+      "heat": 8262
     },
     {
       "id": "iqiyi-0083",
@@ -1617,19 +1632,11 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": [
-        "曾晨",
-        "朱赞锦",
-        "陈笑含",
-        "文东俊",
-        "王力",
-        "张天其"
-      ],
-      "director": "关东杰",
+      "cast": null,
+      "director": null,
       "release_year": null,
       "description": null,
-      "heat": 8253,
-      "douban_rating": null
+      "heat": 8253
     },
     {
       "id": "iqiyi-0084",
