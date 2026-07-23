@@ -49,11 +49,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "桂纶镁",
+        "黄秋生",
+        "曾恺玹",
+        "苏明明",
+        "黄俊郎",
+        "宋健彰",
+        "詹宇豪"
+      ],
+      "director": "周杰伦",
       "release_year": null,
       "description": null,
-      "heat": 7970
+      "heat": 7970,
+      "douban_rating": 8.2
     },
     {
       "id": "youku-0004",
