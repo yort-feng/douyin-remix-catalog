@@ -718,11 +718,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "文章",
+        "李雪健",
+        "宋佳",
+        "张歆怡",
+        "刘韦伯",
+        "浩歌",
+        "汤晶媚",
+        "柳岩"
+      ],
+      "director": "张黎",
       "release_year": null,
       "description": "050E",
-      "heat": 7580
+      "heat": 7580,
+      "douban_rating": 7.9
     },
     {
       "id": "youku-0043",
@@ -736,10 +746,11 @@
       "vip_required": null,
       "genre": null,
       "cast": null,
-      "director": null,
+      "director": "傅琼",
       "release_year": null,
       "description": null,
-      "heat": 7570
+      "heat": 7570,
+      "douban_rating": 6.8
     },
     {
       "id": "youku-0044",
