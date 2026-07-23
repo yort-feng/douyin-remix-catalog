@@ -637,11 +637,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "大左",
+        "贾静雯",
+        "沈月",
+        "郭麒麟",
+        "杨迪",
+        "杨芸晴",
+        "于志凌"
+      ],
+      "director": "常华森",
       "release_year": null,
       "description": "E SoulAPP",
-      "heat": 7630
+      "heat": 7630,
+      "douban_rating": 5.3
     },
     {
       "id": "youku-0038",
