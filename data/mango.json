@@ -226,11 +226,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王灏",
+        "黄晓明",
+        "丁禹兮",
+        "翟潇闻",
+        "尹浩宇",
+        "沈月",
+        "姜妍"
+      ],
+      "director": "欧阳森",
       "release_year": null,
       "description": "季",
-      "heat": 4704
+      "heat": 4704,
+      "douban_rating": 7.5
     },
     {
       "id": "mango-0013",
