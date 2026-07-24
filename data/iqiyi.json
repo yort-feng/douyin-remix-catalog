@@ -1064,11 +1064,23 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "落落",
+        "魏楠",
+        "侯明昊",
+        "陈都灵",
+        "田嘉瑞",
+        "程潇",
+        "林子烨",
+        "徐振轩",
+        "闫桉",
+        "赖伟明"
+      ],
+      "director": "张弋敏",
       "release_year": null,
       "description": null,
-      "heat": 8586
+      "heat": 8586,
+      "douban_rating": 5.1
     },
     {
       "id": "iqiyi-0047",
@@ -1096,11 +1108,23 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "蓝志伟",
+        "古志威",
+        "李沁",
+        "陈哲远",
+        "夏梦",
+        "陈鹤一",
+        "左叶",
+        "秦天宇",
+        "辛凯丽",
+        "张珹朗"
+      ],
+      "director": "朱锐斌",
       "release_year": null,
       "description": null,
-      "heat": 8568
+      "heat": 8568,
+      "douban_rating": 6.7
     },
     {
       "id": "iqiyi-0049",
