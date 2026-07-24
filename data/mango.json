@@ -505,11 +505,14 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "Dan Jones"
+      ],
+      "director": "Nick Green",
       "release_year": null,
       "description": "查",
-      "heat": 4576
+      "heat": 4576,
+      "douban_rating": 8.9
     },
     {
       "id": "mango-0029",
