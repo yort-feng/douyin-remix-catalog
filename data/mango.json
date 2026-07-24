@@ -93,11 +93,15 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "谢拉·汉考克",
+        "理查德·阿米蒂奇"
+      ],
+      "director": "Gary Williams",
       "release_year": null,
       "description": "VIP",
-      "heat": 4760
+      "heat": 4760,
+      "douban_rating": 6.8
     },
     {
       "id": "mango-0006",
@@ -110,11 +114,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "肖恩·韦恩斯",
+        "马龙·韦恩斯",
+        "杰米·金",
+        "弗兰基·费森",
+        "洛奇林·莫罗",
+        "约翰·赫德",
+        "贝茜·菲利普斯",
+        "泰瑞·克鲁斯"
+      ],
+      "director": "基伦·埃弗瑞·韦恩斯",
       "release_year": null,
       "description": "VIP",
-      "heat": 4752
+      "heat": 4752,
+      "douban_rating": 7.3
     },
     {
       "id": "mango-0007",
