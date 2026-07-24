@@ -90,11 +90,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "杨超然",
+        "张若瑜",
+        "陈彦亦",
+        "安志",
+        "陈瑜瑾",
+        "程玉珠",
+        "丁翔威",
+        "唐昊"
+      ],
+      "director": "金蕾",
       "release_year": null,
       "description": null,
-      "heat": 7950
+      "heat": 7950,
+      "douban_rating": 7.8
     },
     {
       "id": "youku-0006",
@@ -105,11 +115,19 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "李美贤",
+        "关笑天",
+        "宫煜伟",
+        "李佳欢",
+        "舜华",
+        "蔡浩杰"
+      ],
+      "director": "姬京璐",
       "release_year": null,
       "description": null,
-      "heat": 7940
+      "heat": 7940,
+      "douban_rating": null
     },
     {
       "id": "youku-0007",
