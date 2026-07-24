@@ -49,11 +49,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "桂纶镁",
+        "黄秋生",
+        "曾恺玹",
+        "苏明明",
+        "黄俊郎",
+        "宋健彰",
+        "詹宇豪"
+      ],
+      "director": "周杰伦",
       "release_year": null,
       "description": null,
-      "heat": 7970
+      "heat": 7970,
+      "douban_rating": 8.2
     },
     {
       "id": "youku-0004",
@@ -81,11 +90,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "杨超然",
+        "张若瑜",
+        "陈彦亦",
+        "安志",
+        "陈瑜瑾",
+        "程玉珠",
+        "丁翔威",
+        "唐昊"
+      ],
+      "director": "金蕾",
       "release_year": null,
       "description": null,
-      "heat": 7950
+      "heat": 7950,
+      "douban_rating": 7.8
     },
     {
       "id": "youku-0006",
@@ -96,11 +115,19 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "李美贤",
+        "关笑天",
+        "宫煜伟",
+        "李佳欢",
+        "舜华",
+        "蔡浩杰"
+      ],
+      "director": "姬京璐",
       "release_year": null,
       "description": null,
-      "heat": 7940
+      "heat": 7940,
+      "douban_rating": null
     },
     {
       "id": "youku-0007",
@@ -256,11 +283,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "成龙",
+        "尔冬升",
+        "惠英红",
+        "吴镇宇",
+        "佘诗曼",
+        "韩雪",
+        "车保罗",
+        "邓萃雯"
+      ],
+      "director": "吴彤",
       "release_year": null,
       "description": null,
-      "heat": 7840
+      "heat": 7840,
+      "douban_rating": 3.5
     },
     {
       "id": "youku-0017",
@@ -277,7 +314,8 @@
       "director": null,
       "release_year": null,
       "description": null,
-      "heat": 7830
+      "heat": 7830,
+      "douban_rating": null
     },
     {
       "id": "youku-0018",
@@ -418,11 +456,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "白敬亭",
+        "章若楠",
+        "陈昊森",
+        "张淼怡",
+        "翟潇闻",
+        "原野",
+        "吴宇恒",
+        "刘楚恬"
+      ],
+      "director": "瞿友宁",
       "release_year": null,
       "description": null,
-      "heat": 7740
+      "heat": 7740,
+      "douban_rating": 5.4
     },
     {
       "id": "youku-0027",
@@ -452,11 +500,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "付玮",
+        "孙红雷",
+        "姚晨",
+        "沈傲君",
+        "祖峰",
+        "冯恩鹤",
+        "吴刚",
+        "朱杰",
+        "范雨林"
+      ],
+      "director": "姜伟",
       "release_year": null,
       "description": "高分封神谍战传奇",
-      "heat": 7720
+      "heat": 7720,
+      "douban_rating": 9.5
     },
     {
       "id": "youku-0029",
@@ -488,7 +547,8 @@
       "director": null,
       "release_year": null,
       "description": null,
-      "heat": 7700
+      "heat": 7700,
+      "douban_rating": null
     },
     {
       "id": "youku-0031",
@@ -501,11 +561,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "杨洋",
+        "金晨",
+        "汪铎",
+        "赵小棠",
+        "赵晴",
+        "金佳悦",
+        "荣梓希",
+        "张婉儿"
+      ],
+      "director": "杨阳",
       "release_year": null,
       "description": null,
-      "heat": 7690
+      "heat": 7690,
+      "douban_rating": 7.5
     },
     {
       "id": "youku-0032",
@@ -533,11 +603,17 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "大张伟",
+        "小鹿",
+        "周奇墨",
+        "翟佳宁"
+      ],
+      "director": "赵露思",
       "release_year": null,
       "description": "线下喜剧试验场",
-      "heat": 7670
+      "heat": 7670,
+      "douban_rating": null
     },
     {
       "id": "youku-0034",
@@ -601,11 +677,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "大左",
+        "贾静雯",
+        "沈月",
+        "郭麒麟",
+        "杨迪",
+        "杨芸晴",
+        "于志凌"
+      ],
+      "director": "常华森",
       "release_year": null,
       "description": "E SoulAPP",
-      "heat": 7630
+      "heat": 7630,
+      "douban_rating": 5.3
     },
     {
       "id": "youku-0038",
@@ -665,11 +750,24 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "周飞龙",
+        "任伟杰",
+        "张翔",
+        "卢力峰",
+        "赵梦娇",
+        "白雪岑",
+        "唐小喜",
+        "文涛",
+        "苗壮",
+        "贺文潇",
+        "刘思岑"
+      ],
+      "director": "刘阔",
       "release_year": null,
       "description": null,
-      "heat": 7590
+      "heat": 7590,
+      "douban_rating": 6.2
     },
     {
       "id": "youku-0042",
@@ -682,11 +780,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "文章",
+        "李雪健",
+        "宋佳",
+        "张歆怡",
+        "刘韦伯",
+        "浩歌",
+        "汤晶媚",
+        "柳岩"
+      ],
+      "director": "张黎",
       "release_year": null,
       "description": "050E",
-      "heat": 7580
+      "heat": 7580,
+      "douban_rating": 7.9
     },
     {
       "id": "youku-0043",
@@ -700,10 +808,11 @@
       "vip_required": null,
       "genre": null,
       "cast": null,
-      "director": null,
+      "director": "傅琼",
       "release_year": null,
       "description": null,
-      "heat": 7570
+      "heat": 7570,
+      "douban_rating": 6.8
     },
     {
       "id": "youku-0044",
@@ -716,11 +825,14 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "彭于晏"
+      ],
+      "director": "陈嘉上",
       "release_year": null,
       "description": "i！",
-      "heat": 7560
+      "heat": 7560,
+      "douban_rating": null
     },
     {
       "id": "youku-0045",
@@ -801,11 +913,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "白云默",
+        "马诗歌",
+        "吴谨言",
+        "王星越",
+        "陈鑫海",
+        "梁永棋",
+        "陈乔恩",
+        "苏可",
+        "刘些宁",
+        "李梦"
+      ],
+      "director": "侣皓吉吉",
       "release_year": null,
       "description": null,
-      "heat": 7510
+      "heat": 7510,
+      "douban_rating": 6.6
     },
     {
       "id": "youku-0050",
@@ -833,11 +957,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "潘粤明",
+        "王鹤棣",
+        "任敏",
+        "姜珮瑶",
+        "赵虎",
+        "江奇霖",
+        "宋霄瑛子",
+        "郑奇"
+      ],
+      "director": "王之",
       "release_year": null,
       "description": null,
-      "heat": 7490
+      "heat": 7490,
+      "douban_rating": 7.0
     },
     {
       "id": "youku-0052",
@@ -867,11 +1001,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "李宏毅",
+        "刘学义",
+        "林博洋",
+        "敖瑞鹏",
+        "李欣泽",
+        "戴燕妮",
+        "范津玮",
+        "邓凯"
+      ],
+      "director": "尹涛",
       "release_year": null,
       "description": null,
-      "heat": 7470
+      "heat": 7470,
+      "douban_rating": 8.3
     },
     {
       "id": "youku-0054",
@@ -963,11 +1107,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "黄景瑜",
+        "章宇",
+        "王子奇",
+        "谢可寅",
+        "林博洋",
+        "刘润南",
+        "赵昱童",
+        "练练"
+      ],
+      "director": "吕行",
       "release_year": null,
       "description": "11",
-      "heat": 7410
+      "heat": 7410,
+      "douban_rating": 7.5
     },
     {
       "id": "youku-0060",
