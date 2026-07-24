@@ -342,11 +342,19 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "杨幂",
+        "邓伦",
+        "魏大勋",
+        "谢依霖",
+        "黄明昊",
+        "张国伟"
+      ],
+      "director": "何舒",
       "release_year": null,
       "description": "VIP",
-      "heat": 4648
+      "heat": 4648,
+      "douban_rating": 6.6
     },
     {
       "id": "mango-0020",
