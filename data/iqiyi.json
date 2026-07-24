@@ -1203,11 +1203,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "陈国华",
+        "陈紫函",
+        "陈键锋",
+        "谭耀文",
+        "刘力扬",
+        "周绍栋",
+        "周德华",
+        "陈美行",
+        "张粟"
+      ],
+      "director": "吴锦源",
       "release_year": null,
       "description": null,
-      "heat": 8523
+      "heat": 8523,
+      "douban_rating": 6.9
     },
     {
       "id": "iqiyi-0054",
@@ -1579,11 +1590,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "马伊琍",
+        "佟大为",
+        "高至霆",
+        "蓝盈莹",
+        "王劲松",
+        "郑水晶",
+        "宋宁峰",
+        "路宏"
+      ],
+      "director": "郭映嘉",
       "release_year": null,
       "description": null,
-      "heat": 8352
+      "heat": 8352,
+      "douban_rating": 7.1
     },
     {
       "id": "iqiyi-0073",
@@ -1596,11 +1617,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "川村泰祐",
+        "山田孝之",
+        "片濑那奈",
+        "矢部享佑",
+        "崎本大海",
+        "横山美雪",
+        "希崎·杰西卡",
+        "天海翼"
+      ],
+      "director": "山口雅俊",
       "release_year": null,
       "description": null,
-      "heat": 8343
+      "heat": 8343,
+      "douban_rating": 8.6
     },
     {
       "id": "iqiyi-0074",
@@ -1613,11 +1644,14 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "伍昕宇"
+      ],
+      "director": "王小明",
       "release_year": null,
       "description": null,
-      "heat": 8334
+      "heat": 8334,
+      "douban_rating": null
     },
     {
       "id": "iqiyi-0075",
@@ -1630,11 +1664,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "任嘉伦",
+        "王鹤润",
+        "张凯莹",
+        "王以纶",
+        "黄羿",
+        "付伟伦",
+        "孙泽源",
+        "张祎格"
+      ],
+      "director": "郭虎",
       "release_year": null,
       "description": null,
-      "heat": 8325
+      "heat": 8325,
+      "douban_rating": 6.9
     },
     {
       "id": "iqiyi-0076",
@@ -1645,11 +1689,18 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "维奥拉·戴维斯",
+        "马特·麦高瑞",
+        "凯蒂·芬德莱",
+        "卡拉·索萨",
+        "杰克·法拉赫"
+      ],
+      "director": "比尔·德埃利亚",
       "release_year": null,
       "description": null,
-      "heat": 8316
+      "heat": 8316,
+      "douban_rating": 8.6
     },
     {
       "id": "iqiyi-0077",
