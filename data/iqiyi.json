@@ -1796,11 +1796,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "陈星旭",
+        "卢昱晓",
+        "代旭",
+        "马思超",
+        "李婷婷",
+        "任宥纶",
+        "陈依莎"
+      ],
+      "director": "猫的树",
       "release_year": null,
       "description": null,
-      "heat": 8262
+      "heat": 8262,
+      "douban_rating": 6.5
     },
     {
       "id": "iqiyi-0083",
@@ -2213,11 +2222,16 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "柯焱曦",
+        "熊婧文",
+        "秦海"
+      ],
+      "director": "禹岚馨",
       "release_year": null,
       "description": null,
-      "heat": 8091
+      "heat": 8091,
+      "douban_rating": 6.6
     },
     {
       "id": "iqiyi-0102",
@@ -2230,11 +2244,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "胡先煦",
+        "张超",
+        "郝富申",
+        "赵浩闳",
+        "韩沐伯",
+        "翟冠华",
+        "孙灿",
+        "吴芊盈"
+      ],
+      "director": "刘畅",
       "release_year": null,
       "description": null,
-      "heat": 8082
+      "heat": 8082,
+      "douban_rating": 8.6
     },
     {
       "id": "iqiyi-0103",
