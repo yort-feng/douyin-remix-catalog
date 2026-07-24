@@ -710,11 +710,24 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "周飞龙",
+        "任伟杰",
+        "张翔",
+        "卢力峰",
+        "赵梦娇",
+        "白雪岑",
+        "唐小喜",
+        "文涛",
+        "苗壮",
+        "贺文潇",
+        "刘思岑"
+      ],
+      "director": "刘阔",
       "release_year": null,
       "description": null,
-      "heat": 7590
+      "heat": 7590,
+      "douban_rating": 6.2
     },
     {
       "id": "youku-0042",
@@ -772,11 +785,14 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "彭于晏"
+      ],
+      "director": "陈嘉上",
       "release_year": null,
       "description": "i！",
-      "heat": 7560
+      "heat": 7560,
+      "douban_rating": null
     },
     {
       "id": "youku-0045",
