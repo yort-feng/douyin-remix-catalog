@@ -1811,11 +1811,19 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "曾晨",
+        "朱赞锦",
+        "陈笑含",
+        "文东俊",
+        "王力",
+        "张天其"
+      ],
+      "director": "关东杰",
       "release_year": null,
       "description": null,
-      "heat": 8253
+      "heat": 8253,
+      "douban_rating": null
     },
     {
       "id": "iqiyi-0084",
@@ -1826,11 +1834,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王阳",
+        "万茜",
+        "黄澄澄",
+        "于和伟",
+        "毕彦君",
+        "王和",
+        "张桐",
+        "丁柳元"
+      ],
+      "director": "张永新",
       "release_year": null,
       "description": null,
-      "heat": 8244
+      "heat": 8244,
+      "douban_rating": 6.4
     },
     {
       "id": "iqiyi-0085",
@@ -1877,11 +1895,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "刘璋牧",
+        "李理",
+        "黄景瑜",
+        "吴刚",
+        "王劲松",
+        "任达华",
+        "李墨之",
+        "张晞临",
+        "马渝捷",
+        "赖艺"
+      ],
+      "director": "傅东育",
       "release_year": null,
       "description": null,
-      "heat": 8217
+      "heat": 8217,
+      "douban_rating": 6.8
     },
     {
       "id": "iqiyi-0088",
@@ -1892,11 +1922,22 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "国浩",
+        "白鹿",
+        "曾舜晞",
+        "何瑞贤",
+        "陈鑫海",
+        "赵弈钦",
+        "周洁琼",
+        "梁永棋",
+        "郑凯"
+      ],
+      "director": "智磊",
       "release_year": null,
       "description": null,
-      "heat": 8208
+      "heat": 8208,
+      "douban_rating": 6.0
     },
     {
       "id": "iqiyi-0089",
@@ -1926,11 +1967,18 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王英",
+        "王舒柳",
+        "杨润华",
+        "丁颖",
+        "刘改利"
+      ],
+      "director": "郝靖堃",
       "release_year": null,
       "description": null,
-      "heat": 8190
+      "heat": 8190,
+      "douban_rating": null
     },
     {
       "id": "iqiyi-0091",
