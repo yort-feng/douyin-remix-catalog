@@ -472,11 +472,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "付玮",
+        "孙红雷",
+        "姚晨",
+        "沈傲君",
+        "祖峰",
+        "冯恩鹤",
+        "吴刚",
+        "朱杰",
+        "范雨林"
+      ],
+      "director": "姜伟",
       "release_year": null,
       "description": "高分封神谍战传奇",
-      "heat": 7720
+      "heat": 7720,
+      "douban_rating": 9.5
     },
     {
       "id": "youku-0029",
@@ -508,7 +519,8 @@
       "director": null,
       "release_year": null,
       "description": null,
-      "heat": 7700
+      "heat": 7700,
+      "douban_rating": null
     },
     {
       "id": "youku-0031",
