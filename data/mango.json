@@ -1195,11 +1195,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "杨迪",
+        "庞博",
+        "郭文韬",
+        "齐思钧",
+        "蒲熠星",
+        "石凯",
+        "吴昕"
+      ],
+      "director": "马梦曦",
       "release_year": null,
       "description": "VIP",
-      "heat": 4272
+      "heat": 4272,
+      "douban_rating": 8.5
     },
     {
       "id": "mango-0067",
@@ -1212,11 +1221,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王志文",
+        "张国立",
+        "韩雨芹",
+        "王海燕",
+        "杜江",
+        "李菲儿",
+        "李洪涛",
+        "章申"
+      ],
+      "director": "李骏",
       "release_year": null,
       "description": "PoRC：",
-      "heat": 4264
+      "heat": 4264,
+      "douban_rating": 8.2
     },
     {
       "id": "mango-0068",
