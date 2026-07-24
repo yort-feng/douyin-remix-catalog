@@ -1558,11 +1558,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "刘璋牧",
+        "白敬亭",
+        "丁勇岱",
+        "金晨",
+        "左小青",
+        "刘钧",
+        "姜妍",
+        "刘冠麟",
+        "胡可"
+      ],
+      "director": "郑晓龙",
       "release_year": null,
       "description": null,
-      "heat": 8370
+      "heat": 8370,
+      "douban_rating": 7.4
     },
     {
       "id": "iqiyi-0071",
