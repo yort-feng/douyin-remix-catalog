@@ -2271,11 +2271,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "成毅",
+        "李一桐",
+        "郭俊辰",
+        "张智尧",
+        "谭凯",
+        "范明",
+        "常华森",
+        "张凯莹"
+      ],
+      "director": "杜林",
       "release_year": null,
       "description": null,
-      "heat": 8073
+      "heat": 8073,
+      "douban_rating": 6.0
     },
     {
       "id": "iqiyi-0104",
@@ -2288,11 +2298,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "安东尼奥·班德拉斯",
+        "安吉丽娜·朱莉",
+        "托马斯·简",
+        "杰克·汤普森",
+        "格里高利·伊齐恩",
+        "阿利森·麦凯",
+        "乔安·普林格尔",
+        "科迪利亚·理查兹"
+      ],
+      "director": "迈克尔·克里斯托弗",
       "release_year": null,
       "description": null,
-      "heat": 8064
+      "heat": 8064,
+      "douban_rating": 7.4
     },
     {
       "id": "iqiyi-0105",
@@ -2303,11 +2323,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "郭麒麟",
+        "宋轶",
+        "蒋依依",
+        "高曙光",
+        "海一天",
+        "尚语贤",
+        "朱珠",
+        "张若昀"
+      ],
+      "director": "邓科",
       "release_year": null,
       "description": null,
-      "heat": 8055
+      "heat": 8055,
+      "douban_rating": 6.3
     },
     {
       "id": "iqiyi-0106",
@@ -2320,11 +2350,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "朱一龙",
+        "毛晓彤",
+        "胡军",
+        "陈楚河",
+        "陈明昊",
+        "黄俊捷",
+        "黄梦莹",
+        "谢君豪"
+      ],
+      "director": "潘安子",
       "release_year": null,
       "description": null,
-      "heat": 8046
+      "heat": 8046,
+      "douban_rating": 7.1
     },
     {
       "id": "iqiyi-0107",
