@@ -265,11 +265,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "成龙",
+        "尔冬升",
+        "惠英红",
+        "吴镇宇",
+        "佘诗曼",
+        "韩雪",
+        "车保罗",
+        "邓萃雯"
+      ],
+      "director": "吴彤",
       "release_year": null,
       "description": null,
-      "heat": 7840
+      "heat": 7840,
+      "douban_rating": 3.5
     },
     {
       "id": "youku-0017",
