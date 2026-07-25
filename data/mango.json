@@ -1100,11 +1100,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "何宣林",
+        "张庭睿",
+        "李彦漫",
+        "张轩瑜",
+        "嗯呐朱莉",
+        "宋海颉",
+        "吴芊妤",
+        "秦路鹿"
+      ],
+      "director": "余阿可",
       "release_year": null,
       "description": "VIP",
-      "heat": 4320
+      "heat": 4320,
+      "douban_rating": 5.2
     },
     {
       "id": "mango-0061",
