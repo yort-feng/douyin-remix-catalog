@@ -172,11 +172,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "孙俪",
+        "陈建斌",
+        "蔡少芬",
+        "李东学",
+        "蒋欣",
+        "陶昕然",
+        "斓曦",
+        "孙茜"
+      ],
+      "director": "郑晓龙",
       "release_year": null,
       "description": null,
-      "heat": 7910
+      "heat": 7910,
+      "douban_rating": 9.4
     },
     {
       "id": "youku-0010",
