@@ -964,11 +964,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "张小斐",
+        "佟大为",
+        "陈小艺",
+        "郭涛",
+        "马思超",
+        "隋俊波",
+        "于毅",
+        "胡意旋"
+      ],
+      "director": "安建",
       "release_year": null,
       "description": "乘风破浪的姐姐 第 好运家",
-      "heat": 4384
+      "heat": 4384,
+      "douban_rating": 5.6
     },
     {
       "id": "mango-0053",
