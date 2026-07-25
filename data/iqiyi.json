@@ -2680,11 +2680,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "黄景瑜",
+        "关晓彤",
+        "徐若晗",
+        "王天辰",
+        "果靖霖",
+        "贾冰",
+        "代乐乐",
+        "赵淑珍"
+      ],
+      "director": "黄伟",
       "release_year": null,
       "description": null,
-      "heat": 7902
+      "heat": 7902,
+      "douban_rating": 6.6
     },
     {
       "id": "iqiyi-0123",
@@ -2800,11 +2810,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "宋慧乔",
+        "宋仲基",
+        "金智媛",
+        "晋久",
+        "李成俊",
+        "温流",
+        "太仁镐",
+        "金玟锡"
+      ],
+      "director": "李应福",
       "release_year": null,
       "description": null,
-      "heat": 7857
+      "heat": 7857,
+      "douban_rating": 8.2
     },
     {
       "id": "iqiyi-0128",
@@ -2815,11 +2835,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "郑少秋",
+        "刘青云",
+        "蓝洁瑛",
+        "周慧敏",
+        "郭蔼明",
+        "李丽珍",
+        "邵仲衡",
+        "欧阳莎菲"
+      ],
+      "director": "韦家辉",
       "release_year": null,
       "description": null,
-      "heat": 7848
+      "heat": 7848,
+      "douban_rating": 9.3
     },
     {
       "id": "iqiyi-0129",
@@ -2832,11 +2862,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王辉",
+        "卢洋洋",
+        "陈鑫海",
+        "南笙",
+        "赵振廷",
+        "籍皓",
+        "钱宣颖"
+      ],
+      "director": "梁国冠",
       "release_year": null,
       "description": null,
-      "heat": 7839
+      "heat": 7839,
+      "douban_rating": 7.6
     },
     {
       "id": "iqiyi-0130",
@@ -2876,11 +2915,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "成东日",
+        "李一花",
+        "罗美兰",
+        "金成畇",
+        "崔武成",
+        "金善映",
+        "柳慧英",
+        "李惠利"
+      ],
+      "director": "申元浩",
       "release_year": null,
       "description": null,
-      "heat": 7821
+      "heat": 7821,
+      "douban_rating": 9.7
     },
     {
       "id": "iqiyi-0132",
