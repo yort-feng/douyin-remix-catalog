@@ -462,7 +462,8 @@
       "director": null,
       "release_year": null,
       "description": null,
-      "heat": 4608
+      "heat": 4608,
+      "douban_rating": 6.7
     },
     {
       "id": "mango-0025",
