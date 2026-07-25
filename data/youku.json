@@ -855,11 +855,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "郑佳",
+        "张沛",
+        "王冰甜",
+        "嗣航",
+        "栾祥瑾",
+        "宋国庆",
+        "孙恺寅",
+        "黄进泽",
+        "唐昊"
+      ],
+      "director": "张帅",
       "release_year": null,
       "description": null,
-      "heat": 7550
+      "heat": 7550,
+      "douban_rating": 5.5
     },
     {
       "id": "youku-0046",
