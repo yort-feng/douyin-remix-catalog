@@ -642,11 +642,18 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "练练",
+        "解子腾",
+        "简莉纹",
+        "刘锐",
+        "陈雅斓"
+      ],
+      "director": "任程伟",
       "release_year": null,
       "description": "VIP",
-      "heat": 4528
+      "heat": 4528,
+      "douban_rating": 4.1
     },
     {
       "id": "mango-0035",
@@ -701,11 +708,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "英英鹿",
+        "刘学义",
+        "胡意旋",
+        "敖瑞鹏",
+        "许晓诺",
+        "杨霖",
+        "景研竣"
+      ],
+      "director": "赵立军",
       "release_year": null,
       "description": "VIP",
-      "heat": 4504
+      "heat": 4504,
+      "douban_rating": 5.3
     },
     {
       "id": "mango-0038",
