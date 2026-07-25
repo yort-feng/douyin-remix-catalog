@@ -1790,11 +1790,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "孙俪",
+        "赵又廷",
+        "于和伟",
+        "陈明昊",
+        "高叶",
+        "李传缨",
+        "张澍",
+        "李洪涛"
+      ],
+      "director": "刘进",
       "release_year": null,
       "description": null,
-      "heat": 8271
+      "heat": 8271,
+      "douban_rating": 7.5
     },
     {
       "id": "iqiyi-0082",
@@ -2648,11 +2658,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "欧豪",
+        "李一桐",
+        "杨玏",
+        "张国强",
+        "胡连馨",
+        "赵阳",
+        "刘奕君",
+        "王同辉"
+      ],
+      "director": "刘新",
       "release_year": null,
       "description": null,
-      "heat": 7893
+      "heat": 7893,
+      "douban_rating": 6.1
     },
     {
       "id": "iqiyi-0124",
@@ -2663,11 +2683,22 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "张春",
+        "季冠霖",
+        "苏尚卿",
+        "许魏洲",
+        "金士杰",
+        "杨婷",
+        "潘淑兰",
+        "九儿",
+        "王德顺"
+      ],
+      "director": "梁旋",
       "release_year": null,
       "description": null,
-      "heat": 7884
+      "heat": 7884,
+      "douban_rating": 7.0
     },
     {
       "id": "iqiyi-0125",
@@ -2680,11 +2711,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "罗晋",
+        "王子文",
+        "余男",
+        "陈瑾",
+        "艾丽娅",
+        "杨一威",
+        "尹铸胜",
+        "艾米"
+      ],
+      "director": "毛鲲宇",
       "release_year": null,
       "description": null,
-      "heat": 7875
+      "heat": 7875,
+      "douban_rating": 6.9
     },
     {
       "id": "iqiyi-0126",
@@ -2695,11 +2736,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "张译",
+        "秦岚",
+        "徐帆",
+        "王真儿",
+        "元清",
+        "贾笑涵",
+        "李洪涛",
+        "于明加"
+      ],
+      "director": "梁昊",
       "release_year": null,
       "description": null,
-      "heat": 7866
+      "heat": 7866,
+      "douban_rating": 6.4
     },
     {
       "id": "iqiyi-0127",
