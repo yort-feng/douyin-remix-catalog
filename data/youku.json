@@ -1323,11 +1323,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "苗侨伟",
+        "岑丽香",
+        "周家怡",
+        "朱晨丽",
+        "梁靖琪",
+        "李天翔",
+        "胡炯龙",
+        "何珮瑜"
+      ],
+      "director": "蔡晶盛",
       "release_year": null,
       "description": null,
-      "heat": 7300
+      "heat": 7300,
+      "douban_rating": 5.9
     },
     {
       "id": "youku-0071",
