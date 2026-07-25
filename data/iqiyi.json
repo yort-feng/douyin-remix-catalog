@@ -2849,11 +2849,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "朱一龙",
+        "童瑶",
+        "王志文",
+        "王阳",
+        "朱珠",
+        "李强",
+        "张子贤",
+        "姚安濂"
+      ],
+      "director": "周游",
       "release_year": null,
       "description": null,
-      "heat": 7830
+      "heat": 7830,
+      "douban_rating": 7.7
     },
     {
       "id": "iqiyi-0131",
@@ -2881,11 +2891,22 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "黄纯",
+        "周也",
+        "翟潇闻",
+        "董璇",
+        "王冠逸",
+        "赵达",
+        "涂凌",
+        "蒋易",
+        "郑伟"
+      ],
+      "director": "祝东宁",
       "release_year": null,
       "description": null,
-      "heat": 7812
+      "heat": 7812,
+      "douban_rating": 6.7
     },
     {
       "id": "iqiyi-0133",
