@@ -1886,11 +1886,27 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "棚桥一德",
+        "楠叶宏三",
+        "佐藤龙雄",
+        "高木淳",
+        "高松信司",
+        "小林常夫",
+        "宫下新平",
+        "片渊须直",
+        "西田健一",
+        "鳕子",
+        "水谷优子",
+        "一龙斋贞友",
+        "屋良有作",
+        "富山敬"
+      ],
+      "director": "芝山努",
       "release_year": null,
       "description": null,
-      "heat": 7100
+      "heat": 7100,
+      "douban_rating": 9.2
     },
     {
       "id": "youku-0091",
