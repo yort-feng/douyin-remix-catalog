@@ -1475,11 +1475,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "苏有朋",
+        "林心如",
+        "周杰",
+        "陈志朋",
+        "范冰冰",
+        "张铁林",
+        "戴春荣",
+        "李明启"
+      ],
+      "director": "孙树培",
       "release_year": null,
       "description": null,
-      "heat": 4176
+      "heat": 4176,
+      "douban_rating": 8.6
     },
     {
       "id": "mango-0079",
