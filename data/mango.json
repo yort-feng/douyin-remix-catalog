@@ -314,11 +314,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "何炅",
+        "檀健次",
+        "李雪琴",
+        "秦霄贤",
+        "王鹤棣",
+        "丁程鑫",
+        "杨迪",
+        "吴泽林"
+      ],
+      "director": "付家鹏",
       "release_year": null,
       "description": "VIP",
-      "heat": 4672
+      "heat": 4672,
+      "douban_rating": 6.1
     },
     {
       "id": "mango-0017",
@@ -348,11 +358,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "张晋",
+        "李承铉",
+        "胡夏",
+        "孙旸",
+        "陈小春",
+        "周柏豪",
+        "林晓峰",
+        "张智霖"
+      ],
+      "director": "周婷",
       "release_year": null,
       "description": "\"2025",
-      "heat": 4656
+      "heat": 4656,
+      "douban_rating": 4.9
     },
     {
       "id": "mango-0019",
