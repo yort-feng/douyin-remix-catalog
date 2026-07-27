@@ -2001,11 +2001,16 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "韩东",
+        "张跃东",
+        "韩煦"
+      ],
+      "director": "李红旗",
       "release_year": null,
       "description": "VIP",
-      "heat": 4032
+      "heat": 4032,
+      "douban_rating": 6.3
     },
     {
       "id": "mango-0097",
