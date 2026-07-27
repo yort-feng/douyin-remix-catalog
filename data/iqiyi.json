@@ -3299,11 +3299,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "杜玉明",
+        "文章",
+        "陶飞霏",
+        "朱杰",
+        "潘泰名",
+        "于震",
+        "乔鹏樾",
+        "吴秀波"
+      ],
+      "director": "陈皓威",
       "release_year": null,
       "description": null,
-      "heat": 7695
+      "heat": 7695,
+      "douban_rating": 8.3
     },
     {
       "id": "iqiyi-0146",
