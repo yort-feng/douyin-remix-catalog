@@ -1688,11 +1688,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "陈飞宇",
+        "王影璐",
+        "王奕婷",
+        "高鹤元",
+        "吴宇恒",
+        "王雅佳",
+        "保剑锋",
+        "何中华"
+      ],
+      "director": "温德光",
       "release_year": null,
       "description": null,
-      "heat": 7220
+      "heat": 7220,
+      "douban_rating": 5.5
     },
     {
       "id": "youku-0079",
