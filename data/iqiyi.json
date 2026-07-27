@@ -3324,11 +3324,22 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "毛溦",
+        "赵丽颖",
+        "欧豪",
+        "李光洁",
+        "刘威",
+        "柯蓝",
+        "任重",
+        "冯嘉怡",
+        "王劲松"
+      ],
+      "director": "傅东育",
       "release_year": null,
       "description": null,
-      "heat": 7686
+      "heat": 7686,
+      "douban_rating": 8.2
     },
     {
       "id": "iqiyi-0147",
@@ -3358,11 +3369,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "高琮凯",
+        "宋轶",
+        "丞磊",
+        "毕雯珺",
+        "史策",
+        "官鸿",
+        "季肖冰",
+        "倪大红",
+        "杜淳"
+      ],
+      "director": "邓科",
       "release_year": null,
       "description": null,
-      "heat": 7668
+      "heat": 7668,
+      "douban_rating": 4.8
     },
     {
       "id": "iqiyi-0149",
