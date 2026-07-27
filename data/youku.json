@@ -2320,11 +2320,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "马成成",
+        "杨紫",
+        "范丞丞",
+        "朱颜曼滋",
+        "金世佳",
+        "孙燕姿",
+        "王乾越",
+        "方悦乔",
+        "钊瑞"
+      ],
+      "director": "牛超",
       "release_year": null,
       "description": "杨紫诠释90后青春",
-      "heat": 6910
+      "heat": 6910,
+      "douban_rating": 7.2
     },
     {
       "id": "youku-0110",
