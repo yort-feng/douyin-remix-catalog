@@ -1737,11 +1737,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "潘粤明",
+        "王龙正",
+        "梁缘",
+        "王迅",
+        "吴晓亮",
+        "费启鸣",
+        "鄂靖文",
+        "尹姝贻"
+      ],
+      "director": "刘英剑",
       "release_year": null,
       "description": "晓",
-      "heat": 7190
+      "heat": 7190,
+      "douban_rating": 5.9
     },
     {
       "id": "youku-0082",
@@ -1771,11 +1781,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "谭松韵",
+        "董晴",
+        "奚望",
+        "高至霆",
+        "王劲松",
+        "刘威",
+        "石云鹏",
+        "赵志伟"
+      ],
+      "director": "柏杉",
       "release_year": null,
       "description": null,
-      "heat": 7170
+      "heat": 7170,
+      "douban_rating": 6.4
     },
     {
       "id": "youku-0084",
@@ -1803,11 +1823,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "张译",
+        "王俊凯",
+        "冯文娟",
+        "范诗然",
+        "徐悦",
+        "兰海蒙",
+        "田小洁",
+        "尹铸胜"
+      ],
+      "director": "杨冬",
       "release_year": null,
       "description": "VIP",
-      "heat": 7150
+      "heat": 7150,
+      "douban_rating": 6.8
     },
     {
       "id": "youku-0086",
@@ -1835,11 +1865,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "李磊",
+        "成毅",
+        "刘奕君",
+        "王劲松",
+        "周奇",
+        "佟梦实",
+        "徐璐",
+        "倪大红",
+        "张涵予"
+      ],
+      "director": "林峰",
       "release_year": null,
       "description": null,
-      "heat": 7130
+      "heat": 7130,
+      "douban_rating": 6.9
     },
     {
       "id": "youku-0088",
@@ -1873,7 +1914,8 @@
       "director": null,
       "release_year": null,
       "description": null,
-      "heat": 7110
+      "heat": 7110,
+      "douban_rating": null
     },
     {
       "id": "youku-0090",
@@ -2000,11 +2042,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "刘雪松",
+        "姚远",
+        "赵丽颖",
+        "罗晋",
+        "刘威",
+        "唐曾",
+        "曹征",
+        "张可盈",
+        "张喜前",
+        "迟蓬"
+      ],
+      "director": "郑晓龙",
       "release_year": null,
       "description": null,
-      "heat": 7040
+      "heat": 7040,
+      "douban_rating": 7.1
     },
     {
       "id": "youku-0097",
@@ -2034,11 +2088,18 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "大张伟",
+        "高瀚宇",
+        "颜人中",
+        "徐志胜",
+        "田嘉瑞"
+      ],
+      "director": "秦昊",
       "release_year": null,
       "description": null,
-      "heat": 7020
+      "heat": 7020,
+      "douban_rating": null
     },
     {
       "id": "youku-0099",
@@ -2068,11 +2129,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "尹吉度",
+        "黄肖英",
+        "佘诗曼",
+        "黄宗泽",
+        "李施嬅",
+        "高海宁",
+        "王敏奕",
+        "马国明",
+        "夏文汐",
+        "谭俊彦"
+      ],
+      "director": "姜振杰",
       "release_year": null,
       "description": null,
-      "heat": 7000
+      "heat": 7000,
+      "douban_rating": 8.0
     },
     {
       "id": "youku-0101",
@@ -2085,11 +2158,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "于和伟",
+        "张桐",
+        "张晚意",
+        "马启越",
+        "马少骅",
+        "朱刚日尧",
+        "曹磊",
+        "夏德俊"
+      ],
+      "director": "张永新",
       "release_year": null,
       "description": null,
-      "heat": 6990
+      "heat": 6990,
+      "douban_rating": 9.3
     },
     {
       "id": "youku-0102",
@@ -2100,11 +2183,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "刘诗诗",
+        "吴奇隆",
+        "郑嘉颖",
+        "袁弘",
+        "林更新",
+        "刘松仁",
+        "刘心悠",
+        "韩栋"
+      ],
+      "director": "李国立",
       "release_year": null,
       "description": "处",
-      "heat": 6980
+      "heat": 6980,
+      "douban_rating": 8.4
     },
     {
       "id": "youku-0103",
