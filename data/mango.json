@@ -2091,11 +2091,19 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "陈楚生",
+        "陆虎",
+        "苏醒",
+        "王栎鑫",
+        "王铮亮",
+        "张远"
+      ],
+      "director": "赵浩",
       "release_year": null,
       "description": "VIP",
-      "heat": 3992
+      "heat": 3992,
+      "douban_rating": 8.8
     },
     {
       "id": "mango-0102",
