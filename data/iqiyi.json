@@ -3397,11 +3397,24 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王俊熙",
+        "黄纯",
+        "周伟",
+        "陈哲远",
+        "梁洁",
+        "王天辰",
+        "古子成",
+        "郑英辰",
+        "刘泳希",
+        "汪卓成",
+        "丁映智"
+      ],
+      "director": "海涛",
       "release_year": null,
       "description": null,
-      "heat": 7659
+      "heat": 7659,
+      "douban_rating": 5.3
     },
     {
       "id": "iqiyi-0150",
@@ -3463,11 +3476,22 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "天毅",
+        "黄景瑜",
+        "肖战",
+        "钟楚曦",
+        "李幼斌",
+        "毛林林",
+        "傅程鹏",
+        "徐洪浩",
+        "孙逊"
+      ],
+      "director": "刘岩",
       "release_year": null,
       "description": null,
-      "heat": 7623
+      "heat": 7623,
+      "douban_rating": 6.1
     },
     {
       "id": "iqiyi-0154",
@@ -3497,11 +3521,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "黄景瑜",
+        "李沁",
+        "杨舒",
+        "聂子皓",
+        "姜嫄",
+        "赵荀",
+        "傅程鹏",
+        "于景骁"
+      ],
+      "director": "天毅",
       "release_year": null,
       "description": null,
-      "heat": 7605
+      "heat": 7605,
+      "douban_rating": 4.4
     },
     {
       "id": "iqiyi-0156",
