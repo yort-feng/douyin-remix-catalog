@@ -2286,11 +2286,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "陈星旭",
+        "李兰迪",
+        "陈牧驰",
+        "何宣林",
+        "周历杰",
+        "秦天宇",
+        "丹增晋美",
+        "戴蕥琪"
+      ],
+      "director": "朱锐斌",
       "release_year": null,
       "description": null,
-      "heat": 6930
+      "heat": 6930,
+      "douban_rating": 7.3
     },
     {
       "id": "youku-0108",
@@ -2363,11 +2373,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "田曦薇",
+        "敖瑞鹏",
+        "白冰可",
+        "赵顺然",
+        "丁一一",
+        "战宇",
+        "涓子",
+        "普超英"
+      ],
+      "director": "澄丰",
       "release_year": null,
       "description": null,
-      "heat": 6890
+      "heat": 6890,
+      "douban_rating": 4.2
     },
     {
       "id": "youku-0112",
@@ -2397,11 +2417,18 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "方瑾",
+        "崔雨鑫",
+        "王一钧",
+        "高维蔓",
+        "吴飞"
+      ],
+      "director": "陈家杰",
       "release_year": null,
       "description": "处",
-      "heat": 6870
+      "heat": 6870,
+      "douban_rating": 6.4
     },
     {
       "id": "youku-0114",
