@@ -2205,11 +2205,16 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "金子欣",
+        "吴浇浇",
+        "白小英楠"
+      ],
+      "director": "宋方金",
       "release_year": null,
       "description": "VIP",
-      "heat": 3960
+      "heat": 3960,
+      "douban_rating": 8.3
     },
     {
       "id": "mango-0106",
@@ -2293,11 +2298,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "童瑶",
+        "周依然",
+        "李泽锋",
+        "张子贤",
+        "马伯骞",
+        "蒋梦婕",
+        "王劲松",
+        "刘丹"
+      ],
+      "director": "张胜富",
       "release_year": null,
       "description": "VIP",
-      "heat": 3920
+      "heat": 3920,
+      "douban_rating": 6.3
     },
     {
       "id": "mango-0111",
