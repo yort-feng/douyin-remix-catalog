@@ -1803,11 +1803,14 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "刘维"
+      ],
+      "director": "杨迪",
       "release_year": null,
       "description": "VIP",
-      "heat": 4128
+      "heat": 4128,
+      "douban_rating": null
     },
     {
       "id": "mango-0085",
@@ -1903,11 +1906,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "周冰清（制片人）",
+        "张杰",
+        "谢娜",
+        "应采儿",
+        "陈小春",
+        "颖儿",
+        "付辛博",
+        "郭晓东",
+        "程莉莎"
+      ],
+      "director": "李甜（导演）",
       "release_year": null,
       "description": "VIP",
-      "heat": 4080
+      "heat": 4080,
+      "douban_rating": 6.7
     },
     {
       "id": "mango-0091",
@@ -1935,11 +1949,18 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "十月时",
+        "王路晴",
+        "丞磊",
+        "马小钦",
+        "尚思丞"
+      ],
+      "director": "吴承峰",
       "release_year": null,
       "description": "VIP",
-      "heat": 4064
+      "heat": 4064,
+      "douban_rating": 5.2
     },
     {
       "id": "mango-0093",
@@ -1952,11 +1973,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "白敬亭",
+        "吴倩",
+        "倪大红",
+        "李建义",
+        "杨新鸣",
+        "吴冕",
+        "高鑫",
+        "谢兰"
+      ],
+      "director": "徐纪周",
       "release_year": null,
       "description": "VIP",
-      "heat": 4056
+      "heat": 4056,
+      "douban_rating": 6.1
     },
     {
       "id": "mango-0094",
@@ -1984,11 +2015,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王敬轩",
+        "李晟",
+        "祝绪丹",
+        "张小婉",
+        "陈德容",
+        "郭文韬",
+        "周峻纬"
+      ],
+      "director": "齐思钧",
       "release_year": null,
       "description": "VIP",
-      "heat": 4040
+      "heat": 4040,
+      "douban_rating": null
     },
     {
       "id": "mango-0096",
