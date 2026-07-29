@@ -2273,11 +2273,14 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "曹恩齐"
+      ],
+      "director": "李恒建",
       "release_year": null,
       "description": "VIP",
-      "heat": 3928
+      "heat": 3928,
+      "douban_rating": null
     },
     {
       "id": "mango-0110",
