@@ -3706,11 +3706,20 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "郭世民",
+        "于毅",
+        "肖茵",
+        "刘智扬",
+        "梁椰雯",
+        "王靖云",
+        "陈洁"
+      ],
+      "director": "巨兴茂",
       "release_year": null,
       "description": null,
-      "heat": 7524
+      "heat": 7524,
+      "douban_rating": 8.7
     },
     {
       "id": "iqiyi-0165",
