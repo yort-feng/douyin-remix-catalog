@@ -2263,11 +2263,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "江奇霖",
+        "章宇",
+        "尹正",
+        "兰西雅",
+        "韩静",
+        "蒋奇明",
+        "甘昀宸",
+        "周政杰"
+      ],
+      "director": "算",
       "release_year": null,
       "description": "口碑剧王豆瓣高分",
-      "heat": 6950
+      "heat": 6950,
+      "douban_rating": 9.0
     },
     {
       "id": "youku-0106",
