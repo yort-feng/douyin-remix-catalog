@@ -1774,11 +1774,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "赵立军",
+        "冯绍峰",
+        "陈宝国",
+        "颖儿",
+        "何晟铭",
+        "陈奕丞",
+        "张丰毅",
+        "王姬",
+        "成毅"
+      ],
+      "director": "高希希",
       "release_year": null,
       "description": null,
-      "heat": 7180
+      "heat": 7180,
+      "douban_rating": 5.7
     },
     {
       "id": "youku-0083",
