@@ -2290,11 +2290,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "程箓",
+        "刘学义",
+        "吴谨言",
+        "毕雯珺",
+        "赵小棠",
+        "陈楚河",
+        "黄日莹",
+        "邵伟桐",
+        "蒋恺"
+      ],
+      "director": "黄伟杰",
       "release_year": null,
       "description": null,
-      "heat": 6940
+      "heat": 6940,
+      "douban_rating": 5.6
     },
     {
       "id": "youku-0107",
