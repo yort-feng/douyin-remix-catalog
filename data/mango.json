@@ -2156,11 +2156,19 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "周婷",
+        "何炅",
+        "谢娜",
+        "易烊千玺",
+        "周震南",
+        "王锵"
+      ],
+      "director": "果果",
       "release_year": null,
       "description": "播",
-      "heat": 3984
+      "heat": 3984,
+      "douban_rating": 8.1
     },
     {
       "id": "mango-0103",
@@ -2342,11 +2350,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "何炅",
+        "撒贝宁",
+        "白敬亭",
+        "王鸥",
+        "吴映洁",
+        "张若昀",
+        "井柏然",
+        "姜逸磊"
+      ],
+      "director": "何舒",
       "release_year": null,
       "description": "VIP",
-      "heat": 3904
+      "heat": 3904,
+      "douban_rating": 8.3
     },
     {
       "id": "mango-0113",
