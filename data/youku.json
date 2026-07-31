@@ -2248,11 +2248,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "吴刚",
+        "赵露思",
+        "罗一舟",
+        "张萌",
+        "江珊",
+        "周澄奥",
+        "朱俊麟",
+        "李百惠"
+      ],
+      "director": "韩晓军",
       "release_year": null,
       "description": null,
-      "heat": 6960
+      "heat": 6960,
+      "douban_rating": 4.3
     },
     {
       "id": "youku-0105",
@@ -2490,11 +2500,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "窦骁",
+        "陈都灵",
+        "胡军",
+        "王劲松",
+        "袁昊",
+        "赵樱子",
+        "赖艺",
+        "董璇"
+      ],
+      "director": "钟澍佳",
       "release_year": null,
       "description": null,
-      "heat": 6850
+      "heat": 6850,
+      "douban_rating": 5.0
     },
     {
       "id": "youku-0116",
@@ -2507,11 +2527,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "陈星旭",
+        "彭小苒",
+        "魏千翔",
+        "斯琴高娃",
+        "罗嘉良",
+        "杨恭如",
+        "王志飞",
+        "张定涵"
+      ],
+      "director": "李木戈",
       "release_year": null,
       "description": null,
-      "heat": 6840
+      "heat": 6840,
+      "douban_rating": 7.6
     },
     {
       "id": "youku-0117",
@@ -2524,11 +2554,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王宝强",
+        "张国强",
+        "郝蕾",
+        "孙逊",
+        "战菁一",
+        "霍青",
+        "常铖",
+        "杨子骅"
+      ],
+      "director": "花箐",
       "release_year": null,
       "description": null,
-      "heat": 6830
+      "heat": 6830,
+      "douban_rating": 7.7
     },
     {
       "id": "youku-0118",
@@ -2539,11 +2579,24 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "山本刚义",
+        "土井裕泰",
+        "大内舞子",
+        "黑木华",
+        "高桥一生",
+        "中村伦也",
+        "市川实日子",
+        "吉田羊",
+        "白鸟玉季",
+        "三田佳子",
+        "泷内公美"
+      ],
+      "director": "坪井敏雄",
       "release_year": null,
       "description": null,
-      "heat": 6820
+      "heat": 6820,
+      "douban_rating": 8.8
     },
     {
       "id": "youku-0119",
@@ -2556,11 +2609,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "林杉",
+        "高保成",
+        "徐林格",
+        "张亮",
+        "刘玉茹",
+        "刘磊",
+        "李树楷",
+        "田烈",
+        "张凤翔"
+      ],
+      "director": "沙蒙",
       "release_year": null,
       "description": null,
-      "heat": 6810
+      "heat": 6810,
+      "douban_rating": 8.4
     },
     {
       "id": "youku-0120",
@@ -2571,11 +2635,14 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "刘思岑"
+      ],
+      "director": "李廷赫",
       "release_year": null,
       "description": null,
-      "heat": 6800
+      "heat": 6800,
+      "douban_rating": null
     },
     {
       "id": "youku-0121",
