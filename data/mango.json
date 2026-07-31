@@ -1754,11 +1754,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "释一鸣",
+        "彭柯",
+        "张雨剑",
+        "周雨彤",
+        "袁昊",
+        "肖燃",
+        "王余阳",
+        "李舒桐",
+        "赵芮玉",
+        "应灏铭"
+      ],
+      "director": "陈冠龙",
       "release_year": null,
       "description": "VIP",
-      "heat": 4152
+      "heat": 4152,
+      "douban_rating": 4.4
     },
     {
       "id": "mango-0082",
