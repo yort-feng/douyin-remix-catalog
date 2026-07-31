@@ -1869,11 +1869,22 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "赵侠",
+        "任嘉伦",
+        "彭小苒",
+        "张耀",
+        "陈意涵",
+        "汪卓成",
+        "鹤男",
+        "刘梦芮",
+        "骆明劼"
+      ],
+      "director": "林峰",
       "release_year": null,
       "description": null,
-      "heat": 7140
+      "heat": 7140,
+      "douban_rating": 4.8
     },
     {
       "id": "youku-0087",
