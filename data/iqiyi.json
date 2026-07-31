@@ -3580,11 +3580,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "秦昊",
+        "杨幂",
+        "张子贤",
+        "栾元晖",
+        "王鹤润",
+        "刘宇轩",
+        "林家川",
+        "蒋奇明"
+      ],
+      "director": "张黎",
       "release_year": null,
       "description": null,
-      "heat": 7578
+      "heat": 7578,
+      "douban_rating": 5.9
     },
     {
       "id": "iqiyi-0159",
@@ -3691,11 +3701,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "秦昊",
+        "韩庚",
+        "钟楚曦",
+        "史彭元",
+        "林博洋",
+        "柳小海",
+        "苏小玎",
+        "张晶伟"
+      ],
+      "director": "陆川",
       "release_year": null,
       "description": null,
-      "heat": 7533
+      "heat": 7533,
+      "douban_rating": 6.4
     },
     {
       "id": "iqiyi-0164",
