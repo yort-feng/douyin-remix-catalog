@@ -2423,11 +2423,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "李伟基",
+        "张予曦",
+        "佟梦实",
+        "韩栋",
+        "傅方俊",
+        "黄羿",
+        "陈紫函"
+      ],
+      "director": "麦贯之",
       "release_year": null,
       "description": "VIP",
-      "heat": 3880
+      "heat": 3880,
+      "douban_rating": null
     },
     {
       "id": "mango-0116",
