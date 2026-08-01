@@ -2698,11 +2698,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "罗晋",
+        "杨子姗",
+        "丁嘉丽",
+        "赵君",
+        "张晞临",
+        "萨日娜",
+        "王同辉",
+        "房子斌"
+      ],
+      "director": "安建",
       "release_year": null,
       "description": "屳",
-      "heat": 6770
+      "heat": 6770,
+      "douban_rating": 6.3
     },
     {
       "id": "youku-0124",
