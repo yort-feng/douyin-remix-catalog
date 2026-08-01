@@ -2757,11 +2757,20 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "韩杰",
+        "陈建斌",
+        "李一桐",
+        "潘粤明",
+        "许文广",
+        "张姝",
+        "孔宋今"
+      ],
+      "director": "曹慧生",
       "release_year": null,
       "description": null,
-      "heat": 6740
+      "heat": 6740,
+      "douban_rating": 3.3
     },
     {
       "id": "youku-0127",
