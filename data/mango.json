@@ -2281,11 +2281,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "八月长安",
+        "朱颜曼滋",
+        "赵顺然",
+        "沈雨",
+        "张亦驰",
+        "梦秦",
+        "陈泇文",
+        "张哲浩",
+        "何美璇"
+      ],
+      "director": "丁培",
       "release_year": null,
       "description": "VIP",
-      "heat": 3936
+      "heat": 3936,
+      "douban_rating": 6.6
     },
     {
       "id": "mango-0109",
