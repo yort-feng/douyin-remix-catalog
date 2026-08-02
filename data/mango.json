@@ -2525,11 +2525,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "郑恺",
+        "刘浩存",
+        "邱泽",
+        "李晨",
+        "姜妍",
+        "黄小蕾",
+        "李梦",
+        "张琪"
+      ],
+      "director": "程伟豪",
       "release_year": null,
       "description": "VIP",
-      "heat": 3848
+      "heat": 3848,
+      "douban_rating": 7.2
     },
     {
       "id": "mango-0120",
