@@ -2834,11 +2834,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "田曦薇",
+        "辛云来",
+        "张哲华",
+        "曾梦雪",
+        "袁文康",
+        "侯雯元",
+        "董洁",
+        "陈昊森"
+      ],
+      "director": "张晓波",
       "release_year": null,
       "description": null,
-      "heat": 6700
+      "heat": 6700,
+      "douban_rating": 6.3
     },
     {
       "id": "youku-0131",
