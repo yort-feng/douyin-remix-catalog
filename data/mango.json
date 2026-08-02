@@ -2460,11 +2460,17 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "肖雨",
+        "曹恩齐",
+        "肖然心",
+        "王钧浩"
+      ],
+      "director": "曾庆杰",
       "release_year": null,
       "description": null,
-      "heat": 3872
+      "heat": 3872,
+      "douban_rating": 6.2
     },
     {
       "id": "mango-0117",
@@ -2492,11 +2498,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "郑业成",
+        "胡意旋",
+        "黄灿灿",
+        "林昕宜",
+        "杨霖",
+        "周大为",
+        "彭必瑶",
+        "书亚信"
+      ],
+      "director": "高琮凯",
       "release_year": null,
       "description": "VIP",
-      "heat": 3856
+      "heat": 3856,
+      "douban_rating": 6.5
     },
     {
       "id": "mango-0119",
