@@ -2356,11 +2356,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "许光汉",
+        "林柏宏",
+        "王净",
+        "蔡振南",
+        "王满娇",
+        "庹宗华",
+        "马念先",
+        "郑志伟"
+      ],
+      "director": "程伟豪",
       "release_year": null,
       "description": "VIP",
-      "heat": 3912
+      "heat": 3912,
+      "douban_rating": 8.1
     },
     {
       "id": "mango-0112",
