@@ -2109,11 +2109,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "陈昊宇",
+        "庄达菲",
+        "周彦辰",
+        "马思超",
+        "古子成",
+        "郭欣禹",
+        "王漪淼",
+        "宁小花"
+      ],
+      "director": "田宇",
       "release_year": null,
       "description": "VIP",
-      "heat": 4008
+      "heat": 4008,
+      "douban_rating": 8.1
     },
     {
       "id": "mango-0100",
