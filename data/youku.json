@@ -2742,11 +2742,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "大泉洋",
+        "有村架纯",
+        "长泽雅美",
+        "吉泽悠",
+        "冈田义德",
+        "片濑那奈",
+        "片桐仁",
+        "槙田雄司"
+      ],
+      "director": "佐藤信介",
       "release_year": null,
       "description": "Mawte",
-      "heat": 6750
+      "heat": 6750,
+      "douban_rating": 7.2
     },
     {
       "id": "youku-0126",
