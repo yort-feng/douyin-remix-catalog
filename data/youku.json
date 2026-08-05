@@ -2725,11 +2725,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "沈阳",
+        "贲放",
+        "谭松韵",
+        "郑业成",
+        "经超",
+        "陈小纭",
+        "赵华为",
+        "隋俊波",
+        "王艺诺",
+        "马少骅"
+      ],
+      "director": "刘海波",
       "release_year": null,
       "description": null,
-      "heat": 6760
+      "heat": 6760,
+      "douban_rating": 6.2
     },
     {
       "id": "youku-0125",
@@ -2861,11 +2873,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "陈晓",
+        "王一博",
+        "王劲松",
+        "刘奕君",
+        "赵昭仪",
+        "张志坚",
+        "冯嘉怡",
+        "章煜奇"
+      ],
+      "director": "傅东育",
       "release_year": null,
       "description": null,
-      "heat": 6690
+      "heat": 6690,
+      "douban_rating": 6.9
     },
     {
       "id": "youku-0132",
