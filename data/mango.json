@@ -32,11 +32,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "刘亦菲",
+        "李现",
+        "胡冰卿",
+        "牛骏峰",
+        "吴彦姝",
+        "董晴",
+        "范帅琦",
+        "马梦唯"
+      ],
+      "director": "丁梓光",
       "release_year": null,
       "description": "VIP",
-      "heat": 4784
+      "heat": 4784,
+      "douban_rating": 8.8
     },
     {
       "id": "mango-0003",
@@ -66,11 +76,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "郄国伟",
+        "宋威龙",
+        "包上恩",
+        "代露娃",
+        "柯颖",
+        "白澍",
+        "秦晓轩",
+        "王可",
+        "全伊伦"
+      ],
+      "director": "闵国辉",
       "release_year": null,
       "description": "VIP",
-      "heat": 4768
+      "heat": 4768,
+      "douban_rating": 5.6
     },
     {
       "id": "mango-0005",
@@ -83,11 +104,15 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "谢拉·汉考克",
+        "理查德·阿米蒂奇"
+      ],
+      "director": "Gary Williams",
       "release_year": null,
       "description": "VIP",
-      "heat": 4760
+      "heat": 4760,
+      "douban_rating": 6.8
     },
     {
       "id": "mango-0006",
@@ -100,11 +125,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "肖恩·韦恩斯",
+        "马龙·韦恩斯",
+        "杰米·金",
+        "弗兰基·费森",
+        "洛奇林·莫罗",
+        "约翰·赫德",
+        "贝茜·菲利普斯",
+        "泰瑞·克鲁斯"
+      ],
+      "director": "基伦·埃弗瑞·韦恩斯",
       "release_year": null,
       "description": "VIP",
-      "heat": 4752
+      "heat": 4752,
+      "douban_rating": 7.3
     },
     {
       "id": "mango-0007",
@@ -117,11 +152,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "马诗歌",
+        "国浩",
+        "侯明昊",
+        "古力娜扎",
+        "陈若轩",
+        "程潇",
+        "赵弈钦",
+        "张南",
+        "张慧雯",
+        "胡静"
+      ],
+      "director": "张之微",
       "release_year": null,
       "description": "VIP",
-      "heat": 4744
+      "heat": 4744,
+      "douban_rating": 6.8
     },
     {
       "id": "mango-0008",
@@ -134,11 +181,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "白云默",
+        "马诗歌",
+        "倪虹洁",
+        "卢昱晓",
+        "王星越",
+        "梁永棋",
+        "柯颖",
+        "吴宣仪",
+        "黄圣池",
+        "董思成"
+      ],
+      "director": "杨欢",
       "release_year": null,
       "description": "VIP",
-      "heat": 4736
+      "heat": 4736,
+      "douban_rating": 6.1
     },
     {
       "id": "mango-0009",
@@ -202,11 +261,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王灏",
+        "黄晓明",
+        "丁禹兮",
+        "翟潇闻",
+        "尹浩宇",
+        "沈月",
+        "姜妍"
+      ],
+      "director": "欧阳森",
       "release_year": null,
       "description": "季",
-      "heat": 4704
+      "heat": 4704,
+      "douban_rating": 7.5
     },
     {
       "id": "mango-0013",
@@ -236,11 +304,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "兰迪",
+        "李承铉",
+        "应采儿",
+        "魏晨",
+        "李艾",
+        "张雅莲",
+        "肖杰",
+        "葛沛豪",
+        "马杨"
+      ],
+      "director": "明艾晴",
       "release_year": null,
       "description": "VIP",
-      "heat": 4688
+      "heat": 4688,
+      "douban_rating": 9.2
     },
     {
       "id": "mango-0015",
@@ -253,11 +332,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "钱敬午",
+        "罗云熙",
+        "肖顺尧",
+        "敖子逸",
+        "方逸伦",
+        "包上恩",
+        "陈瑶",
+        "林允",
+        "徐正溪"
+      ],
+      "director": "陈宙飞",
       "release_year": null,
       "description": "VIP",
-      "heat": 4680
+      "heat": 4680,
+      "douban_rating": 5.7
     },
     {
       "id": "mango-0016",
@@ -270,11 +360,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "何炅",
+        "檀健次",
+        "李雪琴",
+        "秦霄贤",
+        "王鹤棣",
+        "丁程鑫",
+        "杨迪",
+        "吴泽林"
+      ],
+      "director": "付家鹏",
       "release_year": null,
       "description": "VIP",
-      "heat": 4672
+      "heat": 4672,
+      "douban_rating": 6.1
     },
     {
       "id": "mango-0017",
@@ -304,11 +404,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "张晋",
+        "李承铉",
+        "胡夏",
+        "孙旸",
+        "陈小春",
+        "周柏豪",
+        "林晓峰",
+        "张智霖"
+      ],
+      "director": "周婷",
       "release_year": null,
       "description": "\"2025",
-      "heat": 4656
+      "heat": 4656,
+      "douban_rating": 4.9
     },
     {
       "id": "mango-0019",
@@ -321,11 +431,19 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "杨幂",
+        "邓伦",
+        "魏大勋",
+        "谢依霖",
+        "黄明昊",
+        "张国伟"
+      ],
+      "director": "何舒",
       "release_year": null,
       "description": "VIP",
-      "heat": 4648
+      "heat": 4648,
+      "douban_rating": 6.6
     },
     {
       "id": "mango-0020",
@@ -410,7 +528,8 @@
       "director": null,
       "release_year": null,
       "description": null,
-      "heat": 4608
+      "heat": 4608,
+      "douban_rating": 6.7
     },
     {
       "id": "mango-0025",
@@ -457,11 +576,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "井柏然",
+        "陈柏霖",
+        "杨祐宁",
+        "张若昀",
+        "江疏影",
+        "古力娜扎",
+        "宋祖儿",
+        "赖雨濛"
+      ],
+      "director": "吴梦知",
       "release_year": null,
       "description": "记",
-      "heat": 4584
+      "heat": 4584,
+      "douban_rating": 7.6
     },
     {
       "id": "mango-0028",
@@ -474,11 +603,14 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "Dan Jones"
+      ],
+      "director": "Nick Green",
       "release_year": null,
       "description": "查",
-      "heat": 4576
+      "heat": 4576,
+      "douban_rating": 8.9
     },
     {
       "id": "mango-0029",
@@ -491,11 +623,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "张嘉益",
+        "沙溢",
+        "刘敏涛",
+        "孙浩",
+        "宋丹丹",
+        "王紫璇",
+        "宣言",
+        "陈思敏"
+      ],
+      "director": "韩晓军",
       "release_year": null,
       "description": "VIP",
-      "heat": 4568
+      "heat": 4568,
+      "douban_rating": 5.2
     },
     {
       "id": "mango-0030",
@@ -525,11 +667,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "石栾",
+        "谢律",
+        "彭冠英",
+        "涂松岩",
+        "盖玥希",
+        "高鑫",
+        "熊梓淇",
+        "黄小蕾",
+        "陈数",
+        "施诗"
+      ],
+      "director": "杨文军",
       "release_year": null,
       "description": "VIP",
-      "heat": 4552
+      "heat": 4552,
+      "douban_rating": 7.1
     },
     {
       "id": "mango-0032",
@@ -542,11 +696,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "谢兴阳",
+        "苏梦迪",
+        "王翰闻",
+        "潘玥同",
+        "赵子麒",
+        "童家豪",
+        "吴飞",
+        "袁伊"
+      ],
+      "director": "毕鑫业",
       "release_year": null,
       "description": "VIP",
-      "heat": 4544
+      "heat": 4544,
+      "douban_rating": 8.6
     },
     {
       "id": "mango-0033",
@@ -563,7 +727,8 @@
       "director": null,
       "release_year": null,
       "description": "VIP",
-      "heat": 4536
+      "heat": 4536,
+      "douban_rating": null
     },
     {
       "id": "mango-0034",
@@ -576,11 +741,18 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "练练",
+        "解子腾",
+        "简莉纹",
+        "刘锐",
+        "陈雅斓"
+      ],
+      "director": "任程伟",
       "release_year": null,
       "description": "VIP",
-      "heat": 4528
+      "heat": 4528,
+      "douban_rating": 4.1
     },
     {
       "id": "mango-0035",
@@ -593,11 +765,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "胡歌",
+        "桂纶镁",
+        "廖凡",
+        "万茜",
+        "奇道",
+        "黄觉",
+        "曾美慧孜",
+        "张奕聪"
+      ],
+      "director": "刁亦男",
       "release_year": null,
       "description": "312i8",
-      "heat": 4520
+      "heat": 4520,
+      "douban_rating": 7.4
     },
     {
       "id": "mango-0036",
@@ -625,11 +807,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "英英鹿",
+        "刘学义",
+        "胡意旋",
+        "敖瑞鹏",
+        "许晓诺",
+        "杨霖",
+        "景研竣"
+      ],
+      "director": "赵立军",
       "release_year": null,
       "description": "VIP",
-      "heat": 4504
+      "heat": 4504,
+      "douban_rating": 5.3
     },
     {
       "id": "mango-0038",
@@ -659,11 +850,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "彭冠英",
+        "陈钰琪",
+        "富大龙",
+        "高瀚宇",
+        "陈小纭",
+        "王劲松",
+        "吴越",
+        "董洁"
+      ],
+      "director": "金琛",
       "release_year": null,
       "description": "VIP",
-      "heat": 4488
+      "heat": 4488,
+      "douban_rating": 5.7
     },
     {
       "id": "mango-0040",
@@ -693,11 +894,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "包上恩",
+        "吴崇轩",
+        "潘玥同",
+        "蒋熠铭",
+        "朱嘉倩",
+        "向昊",
+        "黄吉",
+        "刘熙墨"
+      ],
+      "director": "金雄豪",
       "release_year": null,
       "description": null,
-      "heat": 4472
+      "heat": 4472,
+      "douban_rating": 6.7
     },
     {
       "id": "mango-0042",
@@ -744,11 +955,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "神月柚莉爱",
+        "土井洋辉",
+        "山口智子",
+        "长岛一茂",
+        "天海祐希",
+        "所乔治",
+        "柊瑠美",
+        "矢野显子"
+      ],
+      "director": "宫崎骏",
       "release_year": null,
       "description": null,
-      "heat": 4448
+      "heat": 4448,
+      "douban_rating": 8.6
     },
     {
       "id": "mango-0045",
@@ -761,11 +982,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "吴娉婷（总导演）",
+        "陈楚生",
+        "苏醒",
+        "王栎鑫",
+        "张远",
+        "王铮亮",
+        "陆虎"
+      ],
+      "director": "孔晓一",
       "release_year": null,
       "description": "VIP",
-      "heat": 4440
+      "heat": 4440,
+      "douban_rating": 9.1
     },
     {
       "id": "mango-0046",
@@ -812,11 +1042,14 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "张百乔"
+      ],
+      "director": "姜妍",
       "release_year": null,
       "description": "VIP",
-      "heat": 4416
+      "heat": 4416,
+      "douban_rating": null
     },
     {
       "id": "mango-0049",
@@ -827,11 +1060,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "马元",
+        "童蕾",
+        "萨日娜",
+        "李建义",
+        "吴迪",
+        "张雅蓓",
+        "王妍之",
+        "孔宋今"
+      ],
+      "director": "邵警辉",
       "release_year": null,
       "description": null,
-      "heat": 4408
+      "heat": 4408,
+      "douban_rating": 6.8
     },
     {
       "id": "mango-0050",
@@ -861,11 +1104,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "何炅",
+        "王祖蓝",
+        "林子祥",
+        "叶倩文",
+        "李克勤",
+        "林晓峰",
+        "杨千嬅",
+        "李健"
+      ],
+      "director": "洪啸",
       "release_year": null,
       "description": null,
-      "heat": 4392
+      "heat": 4392,
+      "douban_rating": 7.3
     },
     {
       "id": "mango-0052",
@@ -878,11 +1131,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "张小斐",
+        "佟大为",
+        "陈小艺",
+        "郭涛",
+        "马思超",
+        "隋俊波",
+        "于毅",
+        "胡意旋"
+      ],
+      "director": "安建",
       "release_year": null,
       "description": "乘风破浪的姐姐 第 好运家",
-      "heat": 4384
+      "heat": 4384,
+      "douban_rating": 5.6
     },
     {
       "id": "mango-0053",
@@ -895,11 +1158,17 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "郑湫泓",
+        "邓凯",
+        "赵一佳",
+        "储子竣"
+      ],
+      "director": "余阿可",
       "release_year": null,
       "description": "VIP",
-      "heat": 4376
+      "heat": 4376,
+      "douban_rating": 5.9
     },
     {
       "id": "mango-0054",
@@ -963,11 +1232,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "果果",
+        "陈小春",
+        "张智霖",
+        "言承旭",
+        "林志炫",
+        "黄贯中",
+        "谢天华",
+        "林晓峰",
+        "梁汉文"
+      ],
+      "director": "吴梦知",
       "release_year": null,
       "description": "CRLE NE AFIE",
-      "heat": 4344
+      "heat": 4344,
+      "douban_rating": 7.3
     },
     {
       "id": "mango-0058",
@@ -1014,11 +1294,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "何宣林",
+        "张庭睿",
+        "李彦漫",
+        "张轩瑜",
+        "嗯呐朱莉",
+        "宋海颉",
+        "吴芊妤",
+        "秦路鹿"
+      ],
+      "director": "余阿可",
       "release_year": null,
       "description": "VIP",
-      "heat": 4320
+      "heat": 4320,
+      "douban_rating": 5.2
     },
     {
       "id": "mango-0061",
@@ -1093,11 +1383,21 @@
       "tags": [],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "陈晓",
+        "古力娜扎",
+        "柳岩",
+        "陈小纭",
+        "赵达",
+        "叶青",
+        "袁文康",
+        "陈东阳"
+      ],
+      "director": "王迎",
       "release_year": null,
       "description": null,
-      "heat": 4280
+      "heat": 4280,
+      "douban_rating": 5.9
     },
     {
       "id": "mango-0066",
@@ -1110,11 +1410,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "杨迪",
+        "庞博",
+        "郭文韬",
+        "齐思钧",
+        "蒲熠星",
+        "石凯",
+        "吴昕"
+      ],
+      "director": "马梦曦",
       "release_year": null,
       "description": "VIP",
-      "heat": 4272
+      "heat": 4272,
+      "douban_rating": 8.5
     },
     {
       "id": "mango-0067",
@@ -1127,11 +1436,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王志文",
+        "张国立",
+        "韩雨芹",
+        "王海燕",
+        "杜江",
+        "李菲儿",
+        "李洪涛",
+        "章申"
+      ],
+      "director": "李骏",
       "release_year": null,
       "description": "PoRC：",
-      "heat": 4264
+      "heat": 4264,
+      "douban_rating": 8.2
     },
     {
       "id": "mango-0068",
@@ -1145,10 +1464,11 @@
       "vip_required": null,
       "genre": null,
       "cast": null,
-      "director": null,
+      "director": "胖大海",
       "release_year": null,
       "description": "VIP",
-      "heat": 4256
+      "heat": 4256,
+      "douban_rating": null
     },
     {
       "id": "mango-0069",
@@ -1161,11 +1481,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "黄羿",
+        "王弘毅",
+        "柯颖",
+        "刘胤君",
+        "周子悦",
+        "张浩哲",
+        "潘毅鸿"
+      ],
+      "director": "麦田",
       "release_year": null,
       "description": "VIP",
-      "heat": 4248
+      "heat": 4248,
+      "douban_rating": 4.9
     },
     {
       "id": "mango-0070",
@@ -1212,11 +1541,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "孙雨田",
+        "蒲熠星",
+        "周峻纬",
+        "唐九洲",
+        "齐思钧",
+        "石凯",
+        "郭文韬",
+        "邵明明"
+      ],
+      "director": "何舒",
       "release_year": null,
       "description": "VIP",
-      "heat": 4224
+      "heat": 4224,
+      "douban_rating": 9.1
     },
     {
       "id": "mango-0073",
@@ -1233,7 +1572,8 @@
       "director": null,
       "release_year": null,
       "description": "VIP",
-      "heat": 4216
+      "heat": 4216,
+      "douban_rating": null
     },
     {
       "id": "mango-0074",
@@ -1263,11 +1603,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王飞",
+        "彭学军",
+        "罗志刚",
+        "刘崇杰",
+        "张新成",
+        "周雨彤",
+        "郑伟",
+        "王佑硕",
+        "禾浩辰",
+        "苏晓彤"
+      ],
+      "director": "伊峥",
       "release_year": null,
       "description": "VIP",
-      "heat": 4200
+      "heat": 4200,
+      "douban_rating": 7.8
     },
     {
       "id": "mango-0076",
@@ -1280,11 +1632,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "潘镜丞",
+        "魏玉海",
+        "万茜",
+        "任重",
+        "赵毅",
+        "石兆琪",
+        "张秋歌",
+        "屈菁菁",
+        "巫迪文",
+        "郭冬冬"
+      ],
+      "director": "程力栋",
       "release_year": null,
       "description": "VIP",
-      "heat": 4192
+      "heat": 4192,
+      "douban_rating": 5.8
     },
     {
       "id": "mango-0077",
@@ -1314,11 +1678,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "苏有朋",
+        "林心如",
+        "周杰",
+        "陈志朋",
+        "范冰冰",
+        "张铁林",
+        "戴春荣",
+        "李明启"
+      ],
+      "director": "孙树培",
       "release_year": null,
       "description": null,
-      "heat": 4176
+      "heat": 4176,
+      "douban_rating": 8.6
     },
     {
       "id": "mango-0079",
@@ -1331,11 +1705,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "罗晋",
+        "任素汐",
+        "周游",
+        "胡杏儿",
+        "王子川",
+        "孙安可",
+        "刘佳",
+        "郭柯宇"
+      ],
+      "director": "于小忱",
       "release_year": null,
       "description": "VIP",
-      "heat": 4168
+      "heat": 4168,
+      "douban_rating": 7.0
     },
     {
       "id": "mango-0080",
@@ -1348,11 +1732,16 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "郑妙",
+        "丞磊",
+        "牛鑫"
+      ],
+      "director": "郝立宇",
       "release_year": null,
       "description": "VIP",
-      "heat": 4160
+      "heat": 4160,
+      "douban_rating": null
     },
     {
       "id": "mango-0081",
@@ -1365,11 +1754,23 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "释一鸣",
+        "彭柯",
+        "张雨剑",
+        "周雨彤",
+        "袁昊",
+        "肖燃",
+        "王余阳",
+        "李舒桐",
+        "赵芮玉",
+        "应灏铭"
+      ],
+      "director": "陈冠龙",
       "release_year": null,
       "description": "VIP",
-      "heat": 4152
+      "heat": 4152,
+      "douban_rating": 4.4
     },
     {
       "id": "mango-0082",
@@ -1414,11 +1815,14 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "刘维"
+      ],
+      "director": "杨迪",
       "release_year": null,
       "description": "VIP",
-      "heat": 4128
+      "heat": 4128,
+      "douban_rating": null
     },
     {
       "id": "mango-0085",
@@ -1514,11 +1918,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "周冰清（制片人）",
+        "张杰",
+        "谢娜",
+        "应采儿",
+        "陈小春",
+        "颖儿",
+        "付辛博",
+        "郭晓东",
+        "程莉莎"
+      ],
+      "director": "李甜（导演）",
       "release_year": null,
       "description": "VIP",
-      "heat": 4080
+      "heat": 4080,
+      "douban_rating": 6.7
     },
     {
       "id": "mango-0091",
@@ -1546,11 +1961,18 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "十月时",
+        "王路晴",
+        "丞磊",
+        "马小钦",
+        "尚思丞"
+      ],
+      "director": "吴承峰",
       "release_year": null,
       "description": "VIP",
-      "heat": 4064
+      "heat": 4064,
+      "douban_rating": 5.2
     },
     {
       "id": "mango-0093",
@@ -1563,11 +1985,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "白敬亭",
+        "吴倩",
+        "倪大红",
+        "李建义",
+        "杨新鸣",
+        "吴冕",
+        "高鑫",
+        "谢兰"
+      ],
+      "director": "徐纪周",
       "release_year": null,
       "description": "VIP",
-      "heat": 4056
+      "heat": 4056,
+      "douban_rating": 6.1
     },
     {
       "id": "mango-0094",
@@ -1595,11 +2027,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "王敬轩",
+        "李晟",
+        "祝绪丹",
+        "张小婉",
+        "陈德容",
+        "郭文韬",
+        "周峻纬"
+      ],
+      "director": "齐思钧",
       "release_year": null,
       "description": "VIP",
-      "heat": 4040
+      "heat": 4040,
+      "douban_rating": null
     },
     {
       "id": "mango-0096",
@@ -1612,11 +2053,16 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "韩东",
+        "张跃东",
+        "韩煦"
+      ],
+      "director": "李红旗",
       "release_year": null,
       "description": "VIP",
-      "heat": 4032
+      "heat": 4032,
+      "douban_rating": 6.3
     },
     {
       "id": "mango-0097",
@@ -1663,11 +2109,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "陈昊宇",
+        "庄达菲",
+        "周彦辰",
+        "马思超",
+        "古子成",
+        "郭欣禹",
+        "王漪淼",
+        "宁小花"
+      ],
+      "director": "田宇",
       "release_year": null,
       "description": "VIP",
-      "heat": 4008
+      "heat": 4008,
+      "douban_rating": 8.1
     },
     {
       "id": "mango-0100",
@@ -1697,11 +2153,19 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "陈楚生",
+        "陆虎",
+        "苏醒",
+        "王栎鑫",
+        "王铮亮",
+        "张远"
+      ],
+      "director": "赵浩",
       "release_year": null,
       "description": "VIP",
-      "heat": 3992
+      "heat": 3992,
+      "douban_rating": 8.8
     },
     {
       "id": "mango-0102",
@@ -1714,11 +2178,19 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "周婷",
+        "何炅",
+        "谢娜",
+        "易烊千玺",
+        "周震南",
+        "王锵"
+      ],
+      "director": "果果",
       "release_year": null,
       "description": "播",
-      "heat": 3984
+      "heat": 3984,
+      "douban_rating": 8.1
     },
     {
       "id": "mango-0103",
@@ -1763,11 +2235,16 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "金子欣",
+        "吴浇浇",
+        "白小英楠"
+      ],
+      "director": "宋方金",
       "release_year": null,
       "description": "VIP",
-      "heat": 3960
+      "heat": 3960,
+      "douban_rating": 8.3
     },
     {
       "id": "mango-0106",
@@ -1814,11 +2291,22 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "八月长安",
+        "朱颜曼滋",
+        "赵顺然",
+        "沈雨",
+        "张亦驰",
+        "梦秦",
+        "陈泇文",
+        "张哲浩",
+        "何美璇"
+      ],
+      "director": "丁培",
       "release_year": null,
       "description": "VIP",
-      "heat": 3936
+      "heat": 3936,
+      "douban_rating": 6.6
     },
     {
       "id": "mango-0109",
@@ -1831,11 +2319,14 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "曹恩齐"
+      ],
+      "director": "李恒建",
       "release_year": null,
       "description": "VIP",
-      "heat": 3928
+      "heat": 3928,
+      "douban_rating": null
     },
     {
       "id": "mango-0110",
@@ -1848,11 +2339,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "童瑶",
+        "周依然",
+        "李泽锋",
+        "张子贤",
+        "马伯骞",
+        "蒋梦婕",
+        "王劲松",
+        "刘丹"
+      ],
+      "director": "张胜富",
       "release_year": null,
       "description": "VIP",
-      "heat": 3920
+      "heat": 3920,
+      "douban_rating": 6.3
     },
     {
       "id": "mango-0111",
@@ -1865,11 +2366,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "许光汉",
+        "林柏宏",
+        "王净",
+        "蔡振南",
+        "王满娇",
+        "庹宗华",
+        "马念先",
+        "郑志伟"
+      ],
+      "director": "程伟豪",
       "release_year": null,
       "description": "VIP",
-      "heat": 3912
+      "heat": 3912,
+      "douban_rating": 8.1
     },
     {
       "id": "mango-0112",
@@ -1882,11 +2393,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "何炅",
+        "撒贝宁",
+        "白敬亭",
+        "王鸥",
+        "吴映洁",
+        "张若昀",
+        "井柏然",
+        "姜逸磊"
+      ],
+      "director": "何舒",
       "release_year": null,
       "description": "VIP",
-      "heat": 3904
+      "heat": 3904,
+      "douban_rating": 8.3
     },
     {
       "id": "mango-0113",
@@ -1933,11 +2454,20 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "李伟基",
+        "张予曦",
+        "佟梦实",
+        "韩栋",
+        "傅方俊",
+        "黄羿",
+        "陈紫函"
+      ],
+      "director": "麦贯之",
       "release_year": null,
       "description": "VIP",
-      "heat": 3880
+      "heat": 3880,
+      "douban_rating": null
     },
     {
       "id": "mango-0116",
@@ -1950,11 +2480,17 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "肖雨",
+        "曹恩齐",
+        "肖然心",
+        "王钧浩"
+      ],
+      "director": "曾庆杰",
       "release_year": null,
       "description": null,
-      "heat": 3872
+      "heat": 3872,
+      "douban_rating": 6.2
     },
     {
       "id": "mango-0117",
@@ -1982,11 +2518,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "郑业成",
+        "胡意旋",
+        "黄灿灿",
+        "林昕宜",
+        "杨霖",
+        "周大为",
+        "彭必瑶",
+        "书亚信"
+      ],
+      "director": "高琮凯",
       "release_year": null,
       "description": "VIP",
-      "heat": 3856
+      "heat": 3856,
+      "douban_rating": 6.5
     },
     {
       "id": "mango-0119",
@@ -1999,11 +2545,21 @@
       ],
       "vip_required": null,
       "genre": null,
-      "cast": null,
-      "director": null,
+      "cast": [
+        "郑恺",
+        "刘浩存",
+        "邱泽",
+        "李晨",
+        "姜妍",
+        "黄小蕾",
+        "李梦",
+        "张琪"
+      ],
+      "director": "程伟豪",
       "release_year": null,
       "description": "VIP",
-      "heat": 3848
+      "heat": 3848,
+      "douban_rating": 7.2
     },
     {
       "id": "mango-0120",
